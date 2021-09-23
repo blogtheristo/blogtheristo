@@ -25,6 +25,7 @@ If you have any project questions please do not hesitate to reach out to me.
 
 <li> Lifetime Digital Workspace for Hydrogen Economy (dws4) </li>
 <li> Smart Building Application </li>
+<li> <a href="https://blogtheristo.github.io/portfolio/"> Lifetime Project Portfolio Pages </li>
 
 ## Interesting thinking
 
