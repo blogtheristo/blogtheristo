@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/yushi1007/blob/main/images/GitHub_kuva1.jpg" alt="my banner"></a>
+  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -14,22 +14,24 @@ My work includes GitOps, Project Portfolio Management, leading Consulting teams.
 
 ### 🤝 Connect with Risto Anton
 
-<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Risto Anton | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/linkedin.svg" alt="Risto Anton | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/instagram.svg" alt="blogtheristo | Instagram" width="21px"/></a>
+<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/medium.svg" alt="blogtheristo | Medium" width="21px"/></a>
 </br>
 
 If you have any project questions please do not hesitate to reach out to me.
 
-## 🔭 I'm currently working on
+## 🔭 Projects my team is working on are found on the Project Portfolio Pages
 
-- Restaurant Recommendation App (MERN)
+Lifetime Digital Workspace for Hydrogen Economy (dws4)
+Smart Building Application 
 
-## 🌱 I'm currently learning
+## Interesting thinking
 
-- 📱 React Native
+- Serverless
+- 
 
-## 💼 Technical Skills
+## Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -70,6 +72,5 @@ If you have any project questions please do not hesitate to reach out to me.
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
