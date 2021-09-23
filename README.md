@@ -15,7 +15,7 @@ My work includes GitOps, Project Portfolio Management, leading Consulting teams.
 ### 🤝 Connect with Risto Anton
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/linkedin.svg" alt="Risto Anton | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/instagram.svg" alt="blogtheristo | Instagram" width="21px"/></a>
+<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/stack.jpg" alt="blogtheristo | StackShare" width="23px"/></a>
 <a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/medium.svg" alt="blogtheristo | Medium" width="21px"/></a>
 </br>
 </br>
