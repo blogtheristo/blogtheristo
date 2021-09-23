@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/yushi1007/blob/main/images/GitHub_kuva1.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Dear Lifetime Friend, welcome to blogtheristo <a href="https://lifetime.fi/" target="_blank" rel="noreferrer">Project Portfolio</a>
 </h3>
 
 <h2 align="center">
