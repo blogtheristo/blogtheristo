@@ -33,11 +33,7 @@ If you have any project questions please do not hesitate to reach out to me.
 <li> Smart building using 5G/IoT Sensors </li>
 
 ## Skills
-link https://stackshare.io/blogtheristo
-<pre><code>
-<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/54314549573f5de4669a6fe82c898f"/></a>
-<script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
-</code></pre>
+Please contact me if there is need special talent. We have quite good network for many project work.
 
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
