@@ -39,13 +39,12 @@ If you have any project questions please do not hesitate to reach out to me.
 
 
 
-## 📝 Latest Blog Posts from Lifetime Scope Journal
+## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
-- [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](https://lifetime.fi/blog/k8ngineering)
+- [blogtheristo / Lifetime Studios on Stackshare.io](https://stackshare.io/blogtheristo)
+- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](https://lifetime.fi/blog/k8ngineering)
+
 
 ## 📈 GitHub Stats 
 
