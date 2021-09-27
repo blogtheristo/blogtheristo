@@ -11,6 +11,7 @@ blogtheristo
 </h2> 
 
 My work includes GitOps, Project Portfolio Management, leading Consulting teams.
+How we create value?
 
 ### 🤝 Connect with Risto Anton
 
