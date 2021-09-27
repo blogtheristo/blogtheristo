@@ -10,10 +10,10 @@ Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blan
 blogtheristo 
 </h2> 
 
-My work includes GitOps, Project Portfolio Management, leading Consulting teams.
-How we create value?
+<p> My work includes GitOps, Project Portfolio Management, leading Consulting teams.</p>
+<p> ✨: How we create value? ✨ </p>
 
-### 🤝 Connect with Risto Anton
+### Connect with Risto Anton 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/linkedin.svg" alt="Risto Anton | LinkedIn" width="21px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/images/stack.jpg" alt="blogtheristo | StackShare" width="23px"/></a>
