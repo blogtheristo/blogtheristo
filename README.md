@@ -61,32 +61,35 @@ He has helped to connect software businesses world-wide and industry leaders in 
 
 Risto Anton advises the software technology industry  in order to build solutions that help customers to succeed with his 30 years of experience.
 
-
+I believe in hard work, commitment and dedication. In leadership, kaizen flow and continuous improvement. Age is not only numbers, it means with this attitude strong advantage to any customer.
+<p></p>
+<p></p>
 Some of the technology expertise:
-
-DevSecOps
-⭐ Cloud Providers: AWS, GCP, IBM Cloud, Azure
-⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk, 
-⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
-⭐ Deployment: HashiCorp. Terraform
-⭐ Delivery CI/CD: GitHub Actions
-⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
-
-Application Development
-⭐ Backend: JVM (Java, Scala, Kotlin, Groovy), NodeJS
-⭐ Frontend: Angular, React, Microsoft Code, Android Studio, XCode
-⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.
-⭐ API: Rest, GraphQL, gRPC
-⭐ Messaging: Amazon SQS/SNS
-
-Project Management
- ⭐ Atlassian JIRA/ agile  
- ⭐ GitOps/ Kanban
-
-Customer Engagement Management
- ⭐ Insightly CRM
- ⭐ Microsoft Dynamics 365
-
-Business Automation
- ⭐ Microsoft Power Apps low-code.
- ⭐ GitHub Automated Kanbans
+<p></p>
+<p> DevSecOps / GitOps </p>
+<p>⭐ Cloud Providers: AWS, GCP, IBM Cloud, Azure</p>
+<p>⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk </p>
+<p>⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch</p>
+<p>⭐ Deployment: HashiCorp. Terraform</p>
+<p>⭐ Delivery CI/CD: GitHub Actions</p>
+<p>⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.</p>
+<p></p>
+<p>Application Development</p>
+<p>⭐ Backend: JVM (Java, Scala, Kotlin, Groovy), NodeJS</p>
+<p>⭐ Frontend: Angular, React, Microsoft Code, Android Studio, XCode</p>
+<p>⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.</p>
+<p>⭐ API: Rest, GraphQL, gRPC</p>
+<p>⭐ Messaging: Amazon SQS/SNS</p>
+<p></p>
+<p>Project Management</p>
+<p> ⭐ Atlassian JIRA/ agile  </p>
+<p>⭐ GitOps/ Kanban</p>
+<p></p>
+<p>Customer Engagement Management</p>
+ <p>⭐ Insightly CRM</p>
+ <p>⭐ Microsoft Dynamics 365</p>
+<p></p>
+<p>Business Automation</p>
+<p> ⭐ Microsoft Power Apps low-code.</p>
+<p> ⭐ GitHub Automated Kanbans</p>
+<p>280921</p>
