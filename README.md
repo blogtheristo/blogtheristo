@@ -49,3 +49,44 @@ Please contact me if there is need special talent. We have quite good network fo
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo)
 
+Short Bio of Risto Anton (280921)
+
+Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for example to dws product lines,  ideated and built innovative solutions and their software architecture planning. 
+
+He is an engineering team/ project leader and software architect with an associate/ professional level of software experience, proven expertise in building start-ups, working with large companies.
+
+Risto Anton have built, scaled and led high performing consulting teams to deliver world-class SaaS solutions. 
+
+He has helped to connect software businesses world-wide and industry leaders in the Lifetime Certified Partner Consortium.
+
+Risto Anton advises the software technology industry  in order to build solutions that help customers to succeed with his 30 years of experience.
+
+
+Some of the technology expertise:
+
+DevSecOps
+⭐ Cloud Providers: AWS, GCP, IBM Cloud, Azure
+⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk, 
+⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
+⭐ Deployment: HashiCorp. Terraform
+⭐ Delivery CI/CD: GitHub Actions
+⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
+
+Application Development
+⭐ Backend: JVM (Java, Scala, Kotlin, Groovy), NodeJS
+⭐ Frontend: Angular, React, Microsoft Code, Android Studio, XCode
+⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.
+⭐ API: Rest, GraphQL, gRPC
+⭐ Messaging: Amazon SQS/SNS
+
+Project Management
+ ⭐ Atlassian JIRA/ agile  
+ ⭐ GitOps/ Kanban
+
+Customer Engagement Management
+ ⭐ Insightly CRM
+ ⭐ Microsoft Dynamics 365
+
+Business Automation
+ ⭐ Microsoft Power Apps low-code.
+ ⭐ GitHub Automated Kanbans
