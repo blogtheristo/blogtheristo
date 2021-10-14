@@ -10,8 +10,8 @@ Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blan
 blogtheristo 
 </h2> 
 
-<p> My work includes GitOps, Project Portfolio Management, leading Consulting teams.</p>
-<p> ✨: How we create value? ✨ </p>
+<p> My work includes GitOps for dws4 project, Lifetime Studios Customer Project Portfolio Management, and leading Lifetime Consulting teams.</p>
+<p> ✨: How do we create value? ✨ </p>
 
 ### Connect with Risto Anton 🤝
 
