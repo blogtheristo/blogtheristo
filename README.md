@@ -25,7 +25,7 @@ If you have any project questions please do not hesitate to reach out to me.
 
 ## 🔭 Projects my team is working on are found on the Project Portfolio Pages
 
-<li> Lifetime Digital Workspace for Hydrogen Economy (dws4) </li>
+<li> Lifetime Digital Workspace (dws4) </li>
 <li> Smart Building Application </li>
 <li> <a href="https://blogtheristo.github.io/portfolio/"> Lifetime Project Portfolio Pages </li>
 
