@@ -10,7 +10,7 @@ Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blan
 blogtheristo 
 </h2> 
 
-<p> My work includes GitOps for dws4 project, Lifetime Studios Customer Project Portfolio Management, and leading Lifetime Consulting teams.</p>
+Hello Devs, my current passion is building dws4 project.
 <p> ✨: How do we create value? ✨ </p>
 
 ### Connect with Risto Anton 🤝
@@ -68,7 +68,7 @@ I believe in hard work, commitment and dedication. In leadership, kaizen flow an
 Some of the technology expertise:
 <p></p>
 <p> DevSecOps / GitOps </p>
-<p>⭐ Cloud Providers: AWS, GCP, IBM Cloud, Azure</p>
+<p>⭐ Cloud: AWS, Cloud Code, IBM Cloud Data Science, Microsoft Azure</p>
 <p>⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk </p>
 <p>⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch</p>
 <p>⭐ Deployment: HashiCorp. Terraform</p>
