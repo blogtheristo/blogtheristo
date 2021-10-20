@@ -56,7 +56,7 @@ Does your Organization need more hands on the deck for the Project Office?
 Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
 He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development. 
 Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker. 
-Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Jyputer notebooks." 
+Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Jyputer notebooks.
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines, 
 ideated and built innovative solutions including their software architecture planning and CI/CD.
