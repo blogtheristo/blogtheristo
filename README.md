@@ -116,7 +116,7 @@ Business Automation
 ⭐ Microsoft Power Apps
 
 💖 On his freetime Risto Anton is passionate about Gym training, especially running PB 1:22.20 (half-marathon). 
-He like to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
+He likes to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
 
 (201021)
 
