@@ -50,47 +50,70 @@ Please contact me if there is need special talent. We have quite good network fo
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo)
 
-Short Bio of Risto Anton (280921)
+Short Bio of Risto Anton (201021)
 
-Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for example to dws product lines,  ideated and built innovative solutions and their software architecture planning. 
+Does your Organization need more hands on the deck for the Project Office? 
+Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
+He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development. 
+Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker. 
+Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Jyputer notebooks." 
 
-He is an engineering team/ project leader and software architect with an associate/ professional level of software experience, proven expertise in building start-ups, working with large companies.
+Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines, 
+ideated and built innovative solutions including their software architecture planning and CI/CD.
 
-Risto Anton have built, scaled and led high performing consulting teams to deliver world-class SaaS solutions. 
+He is an engineering team/ project leader and software architect with an associate/ professional level of software experience, 
+proven expertise in building start-ups, working with large companies.
+
+Risto Anton have built, scaled and led high performing consulting teams to deliver world-class SaaS solutions.
 
 He has helped to connect software businesses world-wide and industry leaders in the Lifetime Certified Partner Consortium.
 
-Risto Anton advises the software technology industry  in order to build solutions that help customers to succeed with his 30 years of experience.
+Risto Anton advises the software technology industry in order to build solutions that help customers to succeed with his 30 years of experience.
 
-I believe in hard work, commitment and dedication. In leadership, kaizen flow and continuous improvement. Age is not only numbers, it means with this attitude strong advantage to any customer.
-<p></p>
-<p></p>
-Some of the technology expertise:
-<p></p>
-<p> DevSecOps / GitOps </p>
-<p>⭐ Cloud: AWS, Cloud Code, IBM Cloud Data Science, Microsoft Azure</p>
-<p>⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk </p>
-<p>⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch</p>
-<p>⭐ Deployment: HashiCorp. Terraform</p>
-<p>⭐ Delivery CI/CD: GitHub Actions</p>
-<p>⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.</p>
-<p></p>
-<p>Application Development</p>
-<p>⭐ Backend: JVM (Java, Scala, Kotlin, Groovy), NodeJS</p>
-<p>⭐ Frontend: Angular, React, Microsoft Code, Android Studio, XCode</p>
-<p>⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.</p>
-<p>⭐ API: Rest, GraphQL, gRPC</p>
-<p>⭐ Messaging: Amazon SQS/SNS</p>
-<p></p>
-<p>Project Management</p>
-<p> ⭐ Atlassian JIRA/ agile  </p>
-<p>⭐ GitOps/ Kanban</p>
-<p></p>
-<p>Customer Engagement Management</p>
- <p>⭐ Insightly CRM</p>
- <p>⭐ Microsoft Dynamics 365</p>
-<p></p>
-<p>Business Automation</p>
-<p> ⭐ Microsoft Power Apps low-code.</p>
-<p> ⭐ GitHub Automated Kanbans</p>
-<p>280921</p>
+I believe in hard work, commitment and dedication. In leadership, kaizen flow and continuous improvement. 
+Age is not only numbers, it means with this attitude strong advantage to any customer.
+
+the technology stack expertise:
+
+⭐ Cloud: AWS, Cloud Code, IBM Cloud Data Science, Microsoft Azure, VMware Foundation.
+
+⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk
+
+⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
+
+⭐ Deployment: YAML, JSON, Terraform
+
+⭐ Delivery CI/CD: GitHub Actions, Azure DevOps
+
+⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
+
+Application Development
+
+⭐ Backend: Cloud Native, NodeJS
+
+⭐ Frontend: Visual Code, Android Studio, XCode
+
+⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.
+
+⭐ API: JSON, YAML, Rest, GraphQL, gRPC
+
+⭐ Messaging: Amazon SQS/SNS
+
+Project Management
+
+⭐ Atlassian JIRA/ agile
+
+⭐ GitHub Kanban
+
+Customer Engagement Management
+
+⭐ Insightly CRM
+
+⭐ Microsoft Dynamics 365
+
+Business Automation
+
+⭐ Microsoft Power Apps
+
+(201021)
+
