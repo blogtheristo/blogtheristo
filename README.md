@@ -11,7 +11,7 @@ blogtheristo
 </h2> 
 
 Hello Devs, my current passion is building dws4 project.
-<p> ✨: How do we create value? ✨ </p>
+✨: How do we create value? ✨
 
 ### Connect with Risto Anton 🤝
 
@@ -22,6 +22,7 @@ Hello Devs, my current passion is building dws4 project.
 </br>
 </br>
 If you have any project questions please do not hesitate to reach out to me.
+Find my CVs at <https://github.com/blogtheristo/cv>
 
 ## 🔭 Projects my team is working on are found on the Project Portfolio Pages
 
