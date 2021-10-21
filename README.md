@@ -50,7 +50,7 @@ Please contact me if there is need special talent. We have quite good network fo
 
 ## 📈 GitHub Stats 
 
-[![blogtheristo github stats](<https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>)
+[![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>)
 
 Short Bio of Risto Anton (201021)
 
