@@ -15,10 +15,10 @@ Hello Devs, my current passion is building dws4 project.
 
 ### Connect with Risto Anton 🤝
 
-<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/icon/li.png" alt="Risto Anton | LinkedIn" width="21px"/></a>
-<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/icon/stack.png" alt="blogtheristo | StackShare" width="23px"/></a>
-<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/icon/medium.png" alt="blogtheristo | Medium" width="21px"/></a>
-<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/icon/twitch.png" alt="blogtheristo | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="21px"/></a>
+<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.png" alt="blogtheristo | StackShare" width="23px"/></a>
+<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/medium.png" alt="blogtheristo | Medium" width="21px"/></a>
+<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="21px"/></a>
 </br>
 </br>
 If you have any project questions please do not hesitate to reach out to me.
