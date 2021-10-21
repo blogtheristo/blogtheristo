@@ -42,7 +42,7 @@ Please contact me if there is need special talent. We have quite good network fo
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
-- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen  ](<https://lifetime.fi/blog/hyvinvointi>)
+- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen  ](<https://lifetime.fi/blog/2021/hyvinvointi>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
 - [blogtheristo / Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
@@ -83,8 +83,8 @@ the technology stack expertise:
 <a href="https://github.com/Azure"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/azure.png" alt="Microsoft Azure | Azure" width="26px"/></a>
 <a href="https://github.com/GoogleCloudPlatform"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="Google Cloud Platform | Google" width="26px"/></a>
 <a href="https://github.com/IBM-Cloud"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/IBM.png" alt="IBM Cloud| IBM" width="26px"/></a>
-<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vmware.png" alt="vmWARE Open Source | vmWARE " width="26px"/></a>
-<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform_1.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://github.com/vmware"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vmware.png" alt="vmWARE Open Source | vmWARE " width="26px"/></a>
+<a href="https://github.com/hashicorp/terraform"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform_1.png" alt="blogtheristo | Medium" width="26px"/></a>
 </br>
 </br>
 
