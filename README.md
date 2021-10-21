@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt="my banner"></a>
+  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
 
 <h3 align="center">
@@ -61,13 +61,14 @@ Editor-in-Chief, Risto Anton.
 
 - [Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
 
-Short Bio of Risto Anton (201021)
+### Short Bio of Risto Anton
 
-Does your Organization need more hands on the deck for the Project Office?
+Ad: Does your Organization need more hands on the deck for the Project Office?
+
 Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
 He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.
 Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.
-Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Jyputer notebooks.
+Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Helm, Jyputer notebooks.
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
@@ -97,7 +98,7 @@ the technology stack expertise:
 </br>
 </br>
 
-⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk
+⭐ Container Management : Docker, Docker Swarm, Kubernetes, Helm, Terraform, AWS ECS, AWS Beanstalk
 
 ⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
 
@@ -154,3 +155,6 @@ Business Automation
 He likes to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
 
 (201021)
+<a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png" alt="Cloud Native Trail Map"></a>
+</p>
+https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png
