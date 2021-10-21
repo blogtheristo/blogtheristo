@@ -7,8 +7,8 @@ Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blan
 </h3>
 
 <h2 align="center">
-blogtheristo 
-</h2> 
+blogtheristo
+</h2>
 
 Hello Devs, my current passion is building dws4 project.
 ✨: How do we create value? ✨
@@ -37,33 +37,32 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 <li> Smart building using 5G/IoT Sensors </li>
 
 ## Skills
-Please contact me if there is need special talent. We have quite good network for many project work.
 
+Please contact me if there is need special talent. We have quite good network for many project work.
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
-- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen  ](<https://lifetime.fi/blog/2021/hyvinvointi>)
+- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
 - [blogtheristo / Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
 
-
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>)
 
 Short Bio of Risto Anton (201021)
 
-Does your Organization need more hands on the deck for the Project Office? 
+Does your Organization need more hands on the deck for the Project Office?
 Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
-He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development. 
-Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker. 
+He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.
+Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.
 Cloud native development, serverless, ML/AI, IBM Watson, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub GitOps, MySQL, Kubernetes, Docker, Jyputer notebooks.
 
-Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines, 
+Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
 
-He is an engineering team/ project leader and software architect with an associate/ professional level of software experience, 
+He is an engineering team/ project leader and software architect with an associate/ professional level of software experience,
 proven expertise in building start-ups, working with large companies.
 
 Risto Anton have built, scaled and led high performing consulting teams to deliver world-class SaaS solutions.
@@ -72,7 +71,7 @@ He has helped to connect software businesses world-wide and industry leaders in 
 
 Risto Anton advises the software technology industry in order to build solutions that help customers to succeed with his 30 years of experience.
 
-I believe in hard work, commitment and dedication. In leadership, kaizen flow and continuous improvement. 
+I believe in hard work, commitment and dedication. In leadership, kaizen flow and continuous improvement.
 Age is not only numbers, it means with this attitude strong advantage to any customer.
 
 the technology stack expertise:
@@ -95,9 +94,9 @@ the technology stack expertise:
 ⭐ Deployment: YAML, JSON, Helm, Vault, Consul, Vagrant, Terraform
 </br>
 <a href="https://github.com/yaml"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt=" YAML| Lifetime Group" width="26px"/></a>
-<a href="https://github.com/topics/json"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png" alt="JSON | 
+<a href="https://github.com/topics/json"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png" alt="JSON |
   Lifetime Group" width="26px"/></a>
-<a href="https://github.com/topics/helm"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/helm.png" alt="Helm | 
+<a href="https://github.com/topics/helm"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/helm.png" alt="Helm |
   Lifetime Group" width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vault.png" alt="Vault | Hashicorp." width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/consul.png" alt="Consul | Hashicorp." width="26px"/></a>
@@ -141,8 +140,7 @@ Business Automation
 
 ⭐ Microsoft Power Apps
 
-💖 On his freetime Risto Anton is passionate about Gym training, especially running PB 1:22.20 (half-marathon). 
+💖 On his freetime Risto Anton is passionate about Gym training, especially running PB 1:22.20 (half-marathon).
 He likes to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
 
 (201021)
-
