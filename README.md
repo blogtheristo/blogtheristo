@@ -77,9 +77,9 @@ Age is not only numbers, it means with this attitude strong advantage to any cus
 the technology stack expertise:
 
 ⭐ Public Clouds : Amazon Web Services, Microsoft Azure, Google Cloud Code, IBM Cloud Data Science, VMware Foundation, Terraform Cloud.
-<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/aws.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
-<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/azure.png" alt="blogtheristo | StackShare" width="26px"/></a>
-<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://github.com/aws"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/aws.png" alt="Amazon Web Services | AWS" width="26px"/></a>
+<a href="https://github.com/Azure"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/azure.png" alt="Microsoft Azure | Azure" width="26px"/></a>
+<a href="https://github.com/GoogleCloudPlatform"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="Google Cloud Platform | Google" width="26px"/></a>
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt="blogtheristo | Medium" width="26px"/></a>
 <a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="blogtheristo | Medium" width="26px"/></a>
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt="blogtheristo | Medium" width="26px"/></a>
