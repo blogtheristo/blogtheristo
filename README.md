@@ -76,7 +76,13 @@ Age is not only numbers, it means with this attitude strong advantage to any cus
 
 the technology stack expertise:
 
-⭐ Cloud: AWS, Cloud Code, IBM Cloud Data Science, Microsoft Azure, VMware Foundation.
+⭐ Public Clouds : Amazon Web Services, Cloud Code, IBM Cloud Data Science, Microsoft Azure, VMware Foundation.
+<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/aws.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
+<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/azure.png" alt="blogtheristo | StackShare" width="26px"/></a>
+<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt="blogtheristo | Medium" width="26px"/></a>
+</br>
+</br>
 
 ⭐ Container Management : Docker, Docker Swarm, Kubernetes, AWS ECS, AWS Beanstalk
 
@@ -84,6 +90,12 @@ the technology stack expertise:
 
 ⭐ Deployment: YAML, JSON, Terraform
 
+<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vault.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
+<a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/consul.png" alt="blogtheristo | StackShare" width="26px"/></a>
+<a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vagrant.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform.png" alt="blogtheristo | Medium" width="26px"/></a>
+</br>
+</br>
 ⭐ Delivery CI/CD: GitHub Actions, Azure DevOps
 
 ⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
