@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt="my banner"></a>
+  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="<https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg>" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blank" rel="noreferrer">Project Portfolio</a>
+Dear Lifetime Friend, welcome to my <a href="<https://lifetime.fi/>" target="_blank" rel="noreferrer">Project Portfolio</a>
 </h3>
 
 <h2 align="center">
@@ -42,14 +42,15 @@ Please contact me if there is need special talent. We have quite good network fo
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
-- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](https://lifetime.fi/blog/k8ngineering)
-- [blogtheristo / Lifetime Studios on Stackshare.io](https://stackshare.io/blogtheristo)
-- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](https://lifetime.fi/blog/k8ngineering)
+- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen  ](<https://lifetime.fi/blog/hyvinvointi>)
+- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
+- [blogtheristo / Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
+- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
 
 
 ## 📈 GitHub Stats 
 
-[![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo)
+[![blogtheristo github stats](<https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>)
 
 Short Bio of Risto Anton (201021)
 
