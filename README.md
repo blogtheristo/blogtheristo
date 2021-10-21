@@ -76,13 +76,14 @@ Age is not only numbers, it means with this attitude strong advantage to any cus
 
 the technology stack expertise:
 
-⭐ Public Clouds : Amazon Web Services, Microsoft Azure, Google Cloud Code, IBM Cloud Data Science, VMware Foundation, Terraform Cloud.
+⭐ Public Clouds : Amazon Web Services, Microsoft Azure, Google Cloud Code, IBM Cloud Data Science, VMware Foundation, Terraform
+</br>
 <a href="https://github.com/aws"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/aws.png" alt="Amazon Web Services | AWS" width="26px"/></a>
 <a href="https://github.com/Azure"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/azure.png" alt="Microsoft Azure | Azure" width="26px"/></a>
 <a href="https://github.com/GoogleCloudPlatform"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/cloud_code.png" alt="Google Cloud Platform | Google" width="26px"/></a>
 <a href="https://github.com/IBM-Cloud"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/IBM.png" alt="IBM Cloud| IBM" width="26px"/></a>
 <a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vmware.png" alt="vmWARE Open Source | vmWARE " width="26px"/></a>
-<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform_1.png" alt="blogtheristo | Medium" width="26px"/></a>
 </br>
 </br>
 
@@ -91,7 +92,8 @@ the technology stack expertise:
 ⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
 
 ⭐ Deployment: YAML, JSON, Terraform
-
+<a href="https://github.com/yaml"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt=" YAML| Lifetime Group" width="26px"/></a>
+<a href="https://github.com/json"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png" alt="JSON | Lifetime Group" width="26px"/></a>YAML
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vault.png" alt="Vault | Hashicorp." width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/consul.png" alt="Consul | Hashicorp." width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vagrant.png" alt="Vagrant | Hashicorp." width="26px"/></a>
@@ -105,6 +107,10 @@ the technology stack expertise:
 Application Development
 
 ⭐ Backend: Cloud Native, NodeJS
+
+<a href="https://github.com/cncf"><img align="left" src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4g" alt="Risto Anton | Cloud Native Foundation" width="26px"/></a>
+</br>
+</br>
 
 ⭐ Frontend: Visual Code, Android Studio, XCode
 
