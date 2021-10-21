@@ -10,10 +10,15 @@ Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blan
 blogtheristo
 </h2>
 
-Hello Devs, my current passion is building dws4 project.
-✨: How do we create value? ✨
+Hello Devs, my current passion is building dws4 project while learning a couple of new things.
 
-### Connect with Risto Anton 🤝
+### ✨: How my company is creating value? ✨
+
+Sometimes it is the best thing write a short value proposition, so here it is.
+(<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
+
+
+### Couple of links of Risto Anton (blogtheristo) 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
@@ -40,16 +45,21 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 
 Please contact me if there is need special talent. We have quite good network for many project work.
 
-## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
+## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ) 
 
 - [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
-- [blogtheristo / Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
+
+Editor-in-Chief, Risto Anton.
 
 ## 📈 GitHub Stats
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>)
+
+### Lifetime Studios on Stackshare
+
+- [Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
 
 Short Bio of Risto Anton (201021)
 
