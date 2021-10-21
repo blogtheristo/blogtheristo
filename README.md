@@ -12,13 +12,13 @@ blogtheristo
 
 Hello Devs, my current passion is building dws4 project while learning a couple of new things.
 
-### ✨: How my company is creating value? ✨
+### ✨: How is my company is creating value? ✨
 
 Sometimes it is the best thing write a short value proposition, so here it is.
 (<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
 
-### Couple of links of Risto Anton (blogtheristo) 🤝
+### Couple of links of (blogtheristo) 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
@@ -29,17 +29,17 @@ Sometimes it is the best thing write a short value proposition, so here it is.
 If you have any project questions please do not hesitate to reach out to me.
 Find my CVs at <https://github.com/blogtheristo/cv>
 
-## 🔭 Projects my team is working on are found on the Project Portfolio Pages
+## 🔭 the Project Portfolio Pages
 
-<li> Lifetime Digital Workspace (dws4) </li>
-<li> Smart Building Application </li>
-<li> <a href="https://blogtheristo.github.io/portfolio/"> Lifetime Project Portfolio Pages </li>
+<li> Lifetime Digital Workspace (dws4) </li> dws4
+<li> Smart Building Application </li> hydrogen
+<li> <a href="https://blogtheristo.github.io/portfolio/"> the Project Portfolio Pages </li>
 
 ## Interesting thinking
 
-<li> Serverless </li>
-<li> Hydrogen economy </li>
-<li> Smart building using 5G/IoT Sensors </li>
+<li> cloud native trail map (see below) </li>
+<li> Hydrogen economy reducing co2 emissions </li>
+<li> An intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells </li>
 
 ## Skills
 
