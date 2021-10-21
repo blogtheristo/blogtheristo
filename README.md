@@ -92,10 +92,13 @@ the technology stack expertise:
 
 ⭐ Monitoring: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, AWS CloudWatch
 
-⭐ Deployment: YAML, JSON, Terraform
+⭐ Deployment: YAML, JSON, Helm, Vault, Consul, Vagrant, Terraform
 </br>
 <a href="https://github.com/yaml"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/yaml.png" alt=" YAML| Lifetime Group" width="26px"/></a>
-<a href="https://github.com/topics/json"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png" alt="JSON | Lifetime Group" width="26px"/></a>YAML
+<a href="https://github.com/topics/json"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/json.png" alt="JSON | 
+  Lifetime Group" width="26px"/></a>
+<a href="https://github.com/topics/helm"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/helm.png" alt="Helm | 
+  Lifetime Group" width="26px"/></a>  
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vault.png" alt="Vault | Hashicorp." width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/consul.png" alt="Consul | Hashicorp." width="26px"/></a>
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/vagrant.png" alt="Vagrant | Hashicorp." width="26px"/></a>
