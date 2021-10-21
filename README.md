@@ -17,7 +17,6 @@ Hello Devs, my current passion is building dws4 project while learning a couple 
 Sometimes it is the best thing write a short value proposition, so here it is.
 (<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
-
 ### Couple of links of (blogtheristo) 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
@@ -45,7 +44,7 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 
 Please contact me if there is need special talent. We have quite good network for many project work.
 
-## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ) 
+## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
 - [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
