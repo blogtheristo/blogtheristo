@@ -114,7 +114,9 @@ the technology stack expertise:
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform.png" alt="Terraform | Hashicorp." width="26px"/></a>
 </br>
 </br>
-⭐ Delivery CI/CD: GitHub Actions, Azure DevOps
+⭐ IAC: Terraform, Consul 
+
+⭐ Delivery: Gitlab for CICD/K8s Cluster Management, Azure DevOps, GitOps Argo CD <https://argo-cd.readthedocs.io/en/stable/>
 
 ⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
 
