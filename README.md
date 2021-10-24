@@ -130,12 +130,15 @@ the technology stack expertise:
 </br>
 </br>
 
-⭐ Microservices Builds: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+⭐ Microservices Builds: 
+Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge and languages.
 
-<a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="Risto Anton | dapr" width="26px"/></a>
+<a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="blogtheristo | dapr" width="26px"/></a>
 </br>
 </br>
-
+<a href="https://github.com/dapr/go"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/go.png" alt="blogtheristo | Go" width="26px"/></a>
+</br>
+</br>
 ⭐ Frontend/backend application Tools: Microsoft Visual Code, Android Studio, XCode for Mac
 
 ⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS, MySQL
