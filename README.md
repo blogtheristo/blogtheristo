@@ -128,7 +128,11 @@ Application Development
 </br>
 </br>
 
-⭐ Frontend: Visual Code, Android Studio, XCode
+⭐ Microservices Builds: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+
+<a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="Risto Anton | dapr" width="26px"/></a>
+
+⭐ Frontend applications: Visual Code, Android Studio, XCode
 
 ⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS.
 
