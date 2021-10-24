@@ -125,12 +125,14 @@ the technology stack expertise:
 ⭐ NodeJS
 
 <a href="https://github.com/cncf"><img align="left" src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4g" alt="Risto Anton | Cloud Native Foundation" width="26px"/></a>
-</n>
+</br>
+</br>
 
 ⭐ Microservices Builds: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
 <a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="Risto Anton | dapr" width="26px"/></a>
-</n>
+</br>
+</br>
 
 ⭐ Frontend/backend application Tools: Microsoft Visual Code, Android Studio, XCode for Mac
 
