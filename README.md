@@ -134,9 +134,7 @@ the technology stack expertise:
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge and languages.
 
 <a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="blogtheristo | dapr" width="26px"/></a>
-</br>
-</br>
-<a href="https://github.com/dapr/go"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/go.png" alt="blogtheristo | Go" width="26px"/></a>
+<a href="https://github.com/golang/go"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/go.png" alt="blogtheristo | Go" width="26px"/></a>
 </br>
 </br>
 ⭐ Frontend/backend application Tools: Microsoft Visual Code, Android Studio, XCode for Mac
