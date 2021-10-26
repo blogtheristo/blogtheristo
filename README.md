@@ -2,15 +2,13 @@
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
 
-<h3 align="center">
-Dear Lifetime Friend, welcome to my <a href="https://lifetime.fi/" target="_blank" rel="noreferrer">Project Portfolio</a>
-</h3>
+### Dear friend, welcome to my page.
 
 <h2 align="center">
 blogtheristo
 </h2>
 
-Hello Devs, my current passion is building dws4 project while learning a couple of new things.
+Hello Devs and world, my current passion is building dws4 project while learning a couple of new things.
 
 ### ✨: How is my company is creating value? ✨
 
