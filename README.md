@@ -2,11 +2,7 @@
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
 
-### Dear friend, welcome to my page.
-
-<h2 align="center">
-blogtheristo
-</h2>
+### Dear friend, welcome to blogtheristo's page.
 
 Hello Devs and world, my current passion is building dws4 project while learning a couple of new things.
 
@@ -32,11 +28,35 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 <li> Smart Building Application </li> hydrogen
 <li> <a href="https://blogtheristo.github.io/portfolio/"> the Project Portfolio Pages </li>
 
-## Interesting thinking
+# Interesting to me
 
-<li> cloud native trail map (see below) </li>
-<li> Hydrogen economy reducing co2 emissions </li>
-<li> An intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells </li>
+## Hydrogen economy reducing co2 emissions
+### Solving the Climate challenge
+
+There is a need for a global industrial map application similar to covid-map that 
+shows in real time every carbon emissive device operating.
+
+App where its a wall of improvement locally can be seen.
+
+Virtual Reality platform dws4 solves this need;
+
+There will be consumer competitions available,
+
+Environmental prizes,
+
+Wall of fame cities, companies, products, people, what not.
+
+Because your device operating causing emissions are the problem; it will be addressed; soon.
+
+What is measured and followed are sooner fixed.
+
+Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀
+
+achievements vs. restrictions do work better.
+
+Free for contributors to write and use.
+
+Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem
 
 ## Skills
 
