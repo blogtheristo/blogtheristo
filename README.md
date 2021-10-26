@@ -67,7 +67,7 @@ Ad: Does your Organization need more hands on the deck for the Project Office?
 Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
 He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.
 Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.
-Cloud native development, serverless, ML/AI, IBM Watson, 
+Cloud native development, serverless, ML/AI, IBM Watson,
 
 Go, C#, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.
 
@@ -116,7 +116,7 @@ the technology stack expertise:
 <a href="https://github.com/hashicorp"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/terraform.png" alt="Terraform | Hashicorp." width="26px"/></a>
 </br>
 </br>
-⭐ IAC: Terraform, Consul 
+⭐ IAC: Terraform, Consul
 
 ⭐ Delivery: Gitlab for CICD/K8s Cluster Management, Azure DevOps, GitOps Argo CD <https://argo-cd.readthedocs.io/en/stable/>
 
@@ -130,7 +130,7 @@ the technology stack expertise:
 </br>
 </br>
 
-⭐ Microservices Builds: 
+⭐ Microservices Builds:
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge and languages.
 
 <a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="blogtheristo | dapr" width="26px"/></a>
