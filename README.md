@@ -24,16 +24,17 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 
 ## 🔭 the Project Portfolio Pages
 
-<li> Lifetime Digital Workspace (dws4) </li> dws4 for investors <https://github.com/blogtheristo/investor_2022
-<li> Smart Building Application </li> hydrogen
-<li> <a href="https://blogtheristo.github.io/portfolio/"> the Project Portfolio Pages </li>
+⭐ Lifetime Digital Workspace dws4 for intelligent industries; investors (<https://github.com/blogtheristo/investor_2022>). 
+⭐ Intelligence and cognitive decisioning in dws4; building the Application ecosystem - the new hydrogen economy. 
+⭐  (<"https://blogtheristo.github.io/portfolio/>) the Project Portfolio Pages. 
 
 # Interesting to me
 
 ## Hydrogen economy reducing co2 emissions
+
 ### Solving the Climate challenge
 
-There is a need for a global industrial map application similar to covid-map that 
+There is a need for a global industrial map application similar to covid-map that.  
 shows in real time every carbon emissive device operating.
 
 App where its a wall of improvement locally can be seen.
@@ -46,27 +47,28 @@ Environmental prizes,
 
 Wall of fame cities, companies, products, people, what not.
 
-Because your device operating causing emissions are the problem; it will be addressed; soon.
+Because your device operating causing emissions are the problem; it will be addressed;   
+soon.
 
 What is measured and followed are sooner fixed.
 
-Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀
+Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀. 
 
 achievements vs. restrictions do work better.
 
 Free for contributors to write and use.
 
-Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem
+Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem. 
 
 ## Skills
 
-Please contact me if there is need special talent. We have quite good network for many project work.
+Please contact me if there is need special talent. We have quite good network for many project work.  
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
 
-- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)
-- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
-- [(LSJ) cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>)
+- [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>). 
+- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>). 
+- [(LSJ) cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>)  
 
 Editor-in-Chief, Risto Anton.
 
@@ -76,18 +78,18 @@ Editor-in-Chief, Risto Anton.
 
 ### Lifetime Studios on Stackshare
 
-- [Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>)
+- [Lifetime Studios on Stackshare.io](<https://stackshare.io/blogtheristo>). 
 
 ### Short Bio of Risto Anton
 
-Ad: Does your Organization need more hands on the deck for the Project Office?
+Ad: Does your Organization need more hands on the deck for the Project Office?  
 
-Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.
-He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.
-Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.
-Cloud native development, serverless, ML/AI, IBM Watson,
+Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.  
+He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.  
+Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.  
+Cloud native development, serverless, ML/AI, IBM Watson,  
 
-Go, C#, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.
+Go, C#, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
