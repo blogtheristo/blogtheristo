@@ -66,7 +66,7 @@ Please contact me if there is need special talent. We have quite good network fo
 
 - [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)
 - [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
-- [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>)
+- [(LSJ) cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>)
 
 Editor-in-Chief, Risto Anton.
 
