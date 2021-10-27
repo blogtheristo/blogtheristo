@@ -8,10 +8,10 @@ Hello Devs and world, my current passion is building dws4 project while learning
 
 ### ✨: How is my company is creating value? ✨
 
-Sometimes it is the best thing write a short value proposition, so here it is.
+Sometimes it is the best thing write a short value proposition, so here it is.  
 (<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
-### Couple of links of (blogtheristo) 🤝
+### Couple of links of (blogtheristo) 🤝. 
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
@@ -19,14 +19,20 @@ Sometimes it is the best thing write a short value proposition, so here it is.
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
 </br>
 </br>
-If you have any project questions please do not hesitate to reach out to me.
+If you have any project questions please do not hesitate to reach out to me.  
+
 Find my CVs at <https://github.com/blogtheristo/cv>
 
 ## 🔭 the Project Portfolio Pages
 
-⭐ Lifetime Digital Workspace dws4 for intelligent industries; investors (<https://github.com/blogtheristo/investor_2022>). 
-⭐ Intelligence and cognitive decisioning in dws4; building the Application ecosystem - the new hydrogen economy. 
-⭐  (<"https://blogtheristo.github.io/portfolio/>) the Project Portfolio Pages. 
+⭐ Lifetime Digital Workspace dws4 for intelligent industries; investors.  
+(<https://github.com/blogtheristo/investor_2022>). 
+
+⭐ Intelligence and cognitive decisioning in dws4.  
+Building the Application ecosystem - the new hydrogen economy. 
+
+⭐  the Project Portfolio Pages. 
+(<"https://blogtheristo.github.io/portfolio/>). 
 
 # Interesting to me
 
@@ -179,12 +185,15 @@ Customer Engagement Management
 
 Business Automation
 
-⭐ Microsoft Power Apps
+⭐ Microsoft Power Apps, API Gateway, IoT
 
-💖 On his freetime Risto Anton is passionate about Gym training, especially running PB 1:22.20 (half-marathon).
-He likes to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
+💖 On his freetime Risto Anton is passionate about Gym training,   
+especially running PB 1:22.20 (half-marathon).  
+He likes to play guitar with friends and enjoys.   
+a cup of dark roasted coffee whenever it is available.  
 
-(201021)
+(261021)
+
 <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png" alt="Cloud Native Trail Map"></a>
 </p>
 https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png
