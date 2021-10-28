@@ -19,7 +19,7 @@ Sometimes it is the best thing write a short
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
 </br>
 </br>
-If you have any project questions please do not hesitate to reach out to me.  
+If you have any project resource requests or open questions please do not hesitate to reach out to me.    
 
 [Find my CVs](<https://github.com/blogtheristo/cv>). 
 
