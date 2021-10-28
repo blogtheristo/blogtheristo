@@ -24,8 +24,7 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 
 ## 🔭 the Project Portfolio Pages
 
-⭐ Lifetime Digital Workspace dws4 for intelligent industries; investors.  
-(<https://github.com/blogtheristo/investor_2022>). 
+⭐ [Lifetime Digital Workspace dws4 for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>). 
 
 ⭐ Intelligence and cognitive decisioning in dws4.  
 Building the Application ecosystem - the new hydrogen economy. 
