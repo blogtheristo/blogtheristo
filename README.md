@@ -7,8 +7,8 @@ Hello Devs and world, my current passion is building dws4 project while learning
 
 ### ✨: How is my company is creating value? ✨
 
-Sometimes it is the best thing write a short value proposition, so here it is.  
-(<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
+Sometimes it is the best thing write a short
+[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>). 
 
 ### Couple of links of (blogtheristo) 🤝. 
 
@@ -71,10 +71,11 @@ Please contact me if there is need special talent. We have quite good network fo
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
   
-:star [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>) . 
-:star [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .  
-:star [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) . 
-:star [(LSJ) My Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>) . 
+⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>) .
+⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .
+⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .
+⭐ [(LSJ) My Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>) . 
+
 Editor-in-Chief, Risto Anton.
   
 ## 📈 GitHub Stats
