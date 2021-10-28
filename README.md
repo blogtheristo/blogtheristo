@@ -4,7 +4,7 @@
 
 ### Dear friend, welcome to blogtheristo's page.
 
-Hello Devs and world, my current passion is building dws4 project while learning a couple of new things.
+Hello Devs and World, my current passion is building dws4 project while learning a couple of new things.
 
 ### ✨: How is my company is creating value? ✨
 
