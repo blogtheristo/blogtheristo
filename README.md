@@ -94,7 +94,13 @@ Risto is Senior Full-Stack Developer with a solid knowledge of how to build and 
 cloud native micro services based solutions using Containers k8s/docker on Multicloud Architectures.  
 
 He has Associate Architect level knowledge of 
-_Amazon Web Services_  
+_Amazon Web Services_
+⭐ Service Delivery and Service Mesh; AWS Cloud Map ; AWS App Mesh. 
+⭐ Management (deployment, scheduling, scaling and management of containerized applications); Amazon Elastic Container Service ECS, EKS. 
+⭐ Hosting (where containers run); Amazon EC2; AWS Fargate. 
+⭐ Image Registry (of container image repository); Amazon Elastic Container Registry. 
+  
+  
 _IBM Cloud/Watson/Data Science_   
 _VMware Foundation/Virtualization_   
 _Google Cloud Code Development_  
