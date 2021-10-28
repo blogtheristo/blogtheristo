@@ -107,7 +107,7 @@ _Google Cloud Code Development_
 _Microsoft Azure IAM & migration deployments_.   
 _Azure DevOps_.  
  
-Developer stack: Go, C#, Python, React, JavaScript, Solidity, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
+Developer stack: Go, C#, Python, React, JavaScript, Dapr, Solidity, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
