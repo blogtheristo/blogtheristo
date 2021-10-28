@@ -71,9 +71,9 @@ Please contact me if there is need special talent. We have quite good network fo
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
   
-⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>) .
-⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .
-⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .
+⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)   .  
+⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .  
+⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .  
 ⭐ [(LSJ) My Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>) . 
 
 Editor-in-Chief, Risto Anton.
