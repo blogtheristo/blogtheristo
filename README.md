@@ -88,14 +88,20 @@ Editor-in-Chief, Risto Anton.
 
 ### Short Bio of Risto Anton
 
-Ad: Does your Organization need more hands on the deck for the Project Office?  
+### Ad: Does your Organization need more hands on the virtual desk of your Project Office?  
 
-Risto is Senior Full-Stack Developer with a solid knowledge of Multicloud Architectures.  
-He has Associate Architect level knowledge of Amazon Web Services, IBM Cloud/Watson/Data Science, VMware Foundation/Virtualization, Google Cloud Code Development.  
-Microsoft Azure IAM & migration, Azure DevOps, developing micro services using Containers k8s/docker.  
-Cloud native development, serverless, ML/AI, IBM Watson,  
+Risto is Senior Full-Stack Developer with a solid knowledge of how to build and develop.  
+cloud native micro services based solutions using Containers k8s/docker on Multicloud Architectures.  
 
-Go, C#, Python, React, JavaScript, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
+He has Associate Architect level knowledge of 
+_Amazon Web Services_  
+_IBM Cloud/Watson/Data Science_   
+_VMware Foundation/Virtualization_   
+_Google Cloud Code Development_  
+_Microsoft Azure IAM & migration deployments_.   
+_Azure DevOps_.  
+ 
+Developer stack: Go, C#, Python, React, JavaScript, Solidity, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
