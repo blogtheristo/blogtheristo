@@ -157,7 +157,14 @@ the technology stack expertise:
 
 ⭐ Delivery: Gitlab for CICD/K8s Cluster Management, Azure DevOps, GitOps Argo CD <https://argo-cd.readthedocs.io/en/stable/>
 
-⭐ Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, QA.
+⭐ Cloud Security: ISO 27001, vulnerability scanning, penetration testing, due diligence, Quality Assurance, GDPR  
+
+_Understands governance, risk, and compliance (GRC) strategies from an integrated security solution in the cloud perspective.  Topics include 
+🌟 zero trust, shift-left security, identity access management (IAM), security information and event management (SIEM), extended detection and response (XDR), Kestrel, threat hunting, threat analytics, security modernization, application and infrastructure security, container lifecycle security management, security automation technologies._ 
+
+⭐ Data Security
+
+🌟 understands  _encryption techniques, securing data at-rest, in motion, in use best practices and their tooling TX. Keep Your Own Key (KYOK) capabilities, quantum safe cryptography, confidential computing, fully homomorphic encryption (FHE)_
 
 ### Cloud Native Application Development
 
