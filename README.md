@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
+
 ### Dear friend, welcome to blogtheristo's page.
 
-Hello Devs and world, my current passion is building dws4 project while learning a couple of new things.
+Hello Devs and World, my current passion is building dws4 project while learning a couple of new things.
 
 ### ✨: How is my company is creating value? ✨
 
@@ -18,9 +19,9 @@ Sometimes it is the best thing write a short
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
 </br>
 </br>
-If you have any project questions please do not hesitate to reach out to me.  
+If you have any project resource requests or open questions please do not hesitate to reach out to me.    
 
-Find my CVs at <https://github.com/blogtheristo/cv>
+[Find my CVs](<https://github.com/blogtheristo/cv>). 
 
 ## 🔭 the Project Portfolio Pages
 
@@ -29,8 +30,7 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 ⭐ Intelligence and cognitive decisioning in dws4.  
 Building the Application ecosystem - the new hydrogen economy. 
 
-⭐  the Project Portfolio Pages. 
-(<"https://blogtheristo.github.io/portfolio/>). 
+⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>). 
 
 # Interesting to me
 
