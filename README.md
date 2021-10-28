@@ -150,11 +150,14 @@ the technology stack expertise:
 
 ### Cloud Native Application Development
 
+⭐ AWS Beansstalk, Squarespace, Adobe Creative Cloud
+Enterprise web pages and their social marketing
+
 ⭐ NodeJS
 
-<a href="https://github.com/cncf"><img align="left" src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4g" alt="Risto Anton | Cloud Native Foundation" width="26px"/></a>
-</br>
-</br>
+⭐ Cloud Native Computing Foundation
+
+<a href="https://github.com/cncf"><img align="left" src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4g" alt="Risto Anton | Cloud Native Foundation" width="26px"/></a>.   
 
 ⭐ Microservices Builds:
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge and languages.
@@ -167,7 +170,7 @@ Dapr is a portable, event-driven, runtime for building distributed applications 
 
 ⭐ Databases: Amazon DynamoDB, MongoDB, Amazon Elasticsearch, Amazon RDS, MySQL
 
-⭐ API: JSON, YAML, Rest, GraphQL, gRPC
+⭐ API: JSON, YAML, Rest, GraphQL, gRPC, Azure Application Gateway
 
 ⭐ Messaging: Amazon SQS/SNS
 
