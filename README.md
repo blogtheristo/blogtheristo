@@ -27,8 +27,8 @@ If you have any project resource requests or open questions please do not hesita
 
 ⭐ [Lifetime Digital Workspace dws4 for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>). 
 
-⭐ Intelligence and cognitive decisioning in dws4.  
-Building the Application ecosystem - the new hydrogen economy. 
+⭐ [Intelligence and cognitive decisioning in dws double twin.  
+Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>). 
 
 ⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>). 
 
