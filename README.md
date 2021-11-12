@@ -34,41 +34,29 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 ⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>).
 
-# Interesting to me
+# Interesting to me (in the works too)
 
-## Building dws platform for the intelligent industries of the Hydrogen economy age.
+## Building the DWS platform for the intelligent industries of the Hydrogen economy age.
 
-### Solving the Climate challenge
+### Solving the Climate change build challenge 
 
 There is a need for a global industrial map application similar to covid-map that.  
-shows in real time every carbon emissive device operating.
-
-App where its a wall of improvement locally can be seen.
-
-Virtual Reality platform dws4 solves this need;
-
+Application that shows in real time every carbon emissive device operating.
+App that shows a dashboard and its wall  carbon emission reductions / and improvements on a map showing local situation.  
+Virtual Reality platform dws can solve this need;
 There will be consumer competitions available,
-
 Environmental prizes,
-
 Wall of fame cities, companies, products, people, what not.
-
 Because your device operating causing emissions are the problem; it will be addressed;
 soon.
-
 What is measured and followed are sooner fixed.
-
 Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
-
 achievements vs. restrictions do work better.
-
-Free for contributors to write and use.
-
 Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem.
 
 ## Skills
 
-Please contact me if there is need special talent. We have quite good network for many project work.  
+Please contact me if there is need special talents. We have quite good network for many project work.  
 
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
   
@@ -96,8 +84,9 @@ cloud native micro services based solutions using Containers k8s/docker on Multi
 
 He has Associate Architect level knowledge of
 _Amazon Web Services_
-⭐ Service Delivery and Service Mesh; AWS Cloud Map ; AWS App Mesh.
-⭐ Management (deployment, scheduling, scaling and management of containerized applications); Amazon Elastic Container Service ECS, EKS.
+⭐ Service Delivery and Service Mesh; AWS Cloud Map ; AWS App Mesh. 
+⭐ Amazon Elastic Container Service on Fargate Compute engine  
+⭐ Management (deployment, scheduling, scaling and management of containerized applications)
 ⭐ Hosting (where containers run); Amazon EC2; AWS Fargate.
 ⭐ Image Registry (of container image repository); Amazon Elastic Container Registry.
   
