@@ -36,7 +36,7 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 # Interesting to me
 
-## Hydrogen economy reducing co2 emissions
+## Building dws platform for the intelligent industries of the Hydrogen economy age.
 
 ### Solving the Climate challenge
 
