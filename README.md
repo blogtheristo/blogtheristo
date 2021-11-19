@@ -34,13 +34,13 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 ⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>).
 
-# Interesting to me (in the works too)
+# Interesting to me
 
 ## Building the DWS platform for the intelligent industries of the Hydrogen economy age.
 
-### Solving the Climate change build challenge 
+### Solving the Climate change with dws build challenge 
 
-There is a need for a global industrial map application similar to covid-map that.  
+There is a need for a global industrial map application similar to covid-map that. 
 Application that shows in real time every carbon emissive device operating.
 App that shows a dashboard and its wall  carbon emission reductions / and improvements on a map showing local situation.  
 Virtual Reality platform dws can solve this need;
@@ -56,8 +56,31 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ## Skills
 
-Please contact me if there is need special talents. We have quite good network for many project work.  
+### Interest in AWS topics
+Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile services, Data warehousing, Internet of things, Containers, Blockchain, Big data/Analytics, AWS cost management, AR & VR, AI & machine learning. 
 
+### building on AWS services
+✔️ Amazon API Gateway,    
+✔️ Amazon Aurora Serverless,    
+✔️ Amazon Cognito,    
+✔️ Amazon Comprehend,    
+✔️ Amazon DocumentDB,    
+✔️ Amazon EC2,    
+✔️ Amazon ECS for Kubernetes,    
+✔️ Amazon S3,    
+✔️ Amazon Redshift,    
+✔️ Amazon VPC,    
+✔️ AWS CloudFormation,    
+✔️ AWS CodeCommit,    
+✔️ AWS CodePipeline,    
+✔️ AWS CodeStar,    
+✔️ AWS CodeDeploy,    
+✔️ AWS CodeBuild,    
+✔️ AWS CloudTrail,    
+✔️ AWS Organizations,    
+✔️ AWS IAM,    
+    
+    
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
   
 ⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)   .  
@@ -154,12 +177,15 @@ _Understands governance, risk, and compliance (GRC) strategies from an integrate
 
 ⭐ Data Security
 
-🌟 understands  _encryption techniques, securing data at-rest, in motion, in use best practices and their tooling TX. Keep Your Own Key (KYOK) capabilities, quantum safe cryptography, confidential computing, fully homomorphic encryption (FHE)_
+🌟 understands       
+_encryption techniques,    
+securing data at-rest, in motion, in use best practices and their tooling TX.    
+Keep Your Own Key (KYOK) capabilities, quantum safe cryptography, confidential computing, fully homomorphic encryption (FHE)_
 
 ### Cloud Native Application Development
 
-⭐ AWS Beansstalk, Squarespace, Adobe Creative Cloud
-Enterprise web pages and their social marketing
+⭐ AWS Beansstalk 
+⭐ Adobe Creative Cloud
 
 ⭐ NodeJS
 
