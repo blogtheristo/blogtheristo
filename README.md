@@ -60,25 +60,29 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile services, Data warehousing, Internet of things, Containers, Blockchain, Big data/Analytics, AWS cost management, AR & VR, AI & machine learning. 
 
 ### building on AWS services
-✔️ Amazon API Gateway,    
-✔️ Amazon Aurora Serverless,    
-✔️ Amazon Cognito,    
-✔️ Amazon Comprehend,    
-✔️ Amazon DocumentDB,    
-✔️ Amazon EC2,    
-✔️ Amazon ECS for Kubernetes,    
-✔️ Amazon S3,    
-✔️ Amazon Redshift,    
-✔️ Amazon VPC,    
-✔️ AWS CloudFormation,    
-✔️ AWS CodeCommit,    
-✔️ AWS CodePipeline,    
-✔️ AWS CodeStar,    
-✔️ AWS CodeDeploy,    
-✔️ AWS CodeBuild,    
-✔️ AWS CloudTrail,    
-✔️ AWS Organizations,    
-✔️ AWS IAM,    
+✔️ Amazon API Gateway    
+✔️ Amazon Aurora Serverless  
+✔️ AWS IAM    
+✔️ Amazon Cognito    
+✔️ Amazon Comprehend    
+✔️ Amazon DynamoDB    
+✔️ Amazon DocumentDB    
+✔️ Amazon EC2      
+✔️ Amazon ECS for Kubernetes    
+✔️ Amazon S3    
+✔️ Amazon Redshift    
+✔️ Amazon VPC    
+✔️ Amazon SageMaker    
+✔️ AWS CloudFormation    
+✔️ AWS CodeCommit    
+✔️ AWS CodePipeline    
+✔️ AWS CodeStar    
+✔️ AWS CodeDeploy    
+✔️ AWS CodeBuild    
+✔️ AWS CloudTrail    
+✔️ AWS Organizations    
+
+
     
     
 ## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
