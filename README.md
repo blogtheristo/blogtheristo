@@ -4,7 +4,9 @@
 
 ### Dear friend, welcome to blogtheristo's page
 
-Hello Devs and World, my current passion is building dws4 project while learning a couple of new things.
+Hello Devs and World, my current passion is innovating and building software products like our new Project Montreux dws project
+<p></p>
+while learning a couple of new things.
 
 ### ✨: How is my company is creating value? ✨
 
@@ -17,6 +19,7 @@ Sometimes it is the best thing write a short
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
 <a href="https://blogtheristo.medium.com/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/medium_1.png" alt="blogtheristo | Medium" width="26px"/></a>
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://dws10.com"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/wp.png" alt="project office | WordPress" width="26px"/></a>
 </br>
 </br>
 If you have any project resource requests or open questions please do not hesitate to reach out to me.
