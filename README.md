@@ -63,7 +63,8 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile services, Data warehousing, Internet of things, Containers, Blockchain, Big data/Analytics, AWS cost management, AR & VR, AI & machine learning. 
 
 ### building on AWS services
-✔️ Amazon API Gateway    
+✔️ Amazon API Gateway   
+✔️ AWS Amplify Studio    
 ✔️ Amazon Aurora Serverless  
 ✔️ AWS IAM    
 ✔️ Amazon Cognito    
@@ -217,7 +218,7 @@ Dapr is a portable, event-driven, runtime for building distributed applications 
 
 Project Management
 
-⭐ Atlassian JIRA/ agile
+⭐ Microsoft Azure DevOps / Atlassian
 
 ⭐ GitHub Kanban
 
