@@ -62,7 +62,8 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 ### Interest in AWS topics
 Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile services, Data warehousing, Internet of things, Containers, Blockchain, Big data/Analytics, AWS cost management, AR & VR, AI & machine learning. 
 
-### building on AWS services
+### building on AWS services   
+
 ✔️ Amazon API Gateway   
 ✔️ AWS Amplify Studio    
 ✔️ Amazon Aurora Serverless  
