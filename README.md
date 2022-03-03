@@ -57,13 +57,32 @@ Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
 achievements vs. restrictions do work better.
 Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem.
 
-## Skills
+## Skills  
 
-### Interest in AWS topics
-Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile services, Data warehousing, Internet of things, Containers, Blockchain, Big data/Analytics, AWS cost management, AR & VR, AI & machine learning. 
+DevSecOps,  
+Cloud Security,  
+Serverless Lambda .NET, 
+Data and Video streaming, 
+Satellite and edge,  
+Robotics,  
+Game tech,   
+Mobile Apps,   
+Data warehouse,
+Data Lakehouse,  
+Containers,   
+Blockchain,   
+Web3,  
+Big data,  
+Data Science Analytics,   
+Artificial Intelligence,  
+Machine learning,  
+Insight Engines,  
 
-### building on AWS services   
 
+### Builds daily on these AWS, Microsoft Azure, IBM Cloud,  Services   
+
+✔️ AWS Marketplace solutions   
+✔️ Microsoft Azure Marketplace solutions   
 ✔️ Amazon API Gateway   
 ✔️ AWS Amplify Studio    
 ✔️ Amazon Aurora Serverless  
@@ -77,7 +96,7 @@ Security, Serverless, Video streaming, Satellite, Robotics, Game tech, Mobile se
 ✔️ Amazon S3    
 ✔️ Amazon Redshift    
 ✔️ Amazon VPC    
-✔️ Amazon SageMaker    
+✔️ Amazon SageMaker Studio      
 ✔️ AWS CloudFormation    
 ✔️ AWS CodeCommit    
 ✔️ AWS CodePipeline    
