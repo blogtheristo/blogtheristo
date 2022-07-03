@@ -30,7 +30,10 @@ If you have any project resource requests or open questions please do not hesita
 
 ⭐ [Lifetime Digital Workspace dws for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>)
 
-_Project is AWS innovate project. Contact blogtheristo if you want to contribute_
+_Project is an Amazon Web Services backoffice project. 
+it is written on various programming languages.
+
+Contact blogtheristo if you want to contribute_
 
 ⭐ [Intelligence and cognitive decisioning in dws double twin.  
 Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>).
