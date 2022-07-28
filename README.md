@@ -60,37 +60,49 @@ Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
 achievements vs. restrictions do work better.
 Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem.
 
-## Skills  
+## Hard Skills  
 
-DevSecOps,  
-Cloud Security,  
-Serverless Lambda .NET, 
-Data and Video streaming, 
-Satellite and edge,  
-Robotics,  
-Game tech,   
-Mobile Apps,   
-Data warehouse,
-Data Lakehouse,  
-Containers,   
-Blockchain,   
-Web3,  
-Big data,  
-Data Science Analytics,   
-Artificial Intelligence,  
-Machine learning,  
-Insight Engines,  
+✔️ DevSecOps
+
+✔️ Cloud Security 
+
+✔️ Serverless MAUI .NET on Azure
+
+✔️ Serverless MAUI Flutter on Google Cloud
+
+✔️ Serverless MAUI on AWS
+
+✔️ Data and Video streaming Services
+
+✔️ Robotics, edge, AI, satellite services    
+  
+✔️ Data warehouse as a service
+
+✔️ Data lakehouse implementations 
+
+✔️ Containers, Github Workspaces, CICD
+
+✔️ Big data  
+
+✔️ Data Science Analytics 
+
+✔️ Artificial Intelligence  
+
+✔️ Machine learning  
+
+✔️ Insight Engines  
 
 
-### My team builds daily on these AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services   
+## My team builds daily on these AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services   
 
 ✔️ AWS Marketplace solutions   
 ✔️ Microsoft Azure Marketplace solutions   
 ✔️ Amazon API Gateway   
 ✔️ AWS Amplify Studio    
 ✔️ Amazon Aurora Serverless  
-✔️ [AWS IAM](https://aws.amazon.com/iam/)
+✔️ [AWS IAM](https://aws.amazon.com/iam/) 
 ✔️ [AWS IAM Identity Center] (https://aws.amazon.com/iam/identity-center/)
+
 ✔️ Amazon Cognito    
 ✔️ Amazon Comprehend    
 ✔️ Amazon DynamoDB    
