@@ -66,11 +66,11 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ✔️ Cloud Security 
 
-✔️ Serverless MAUI .NET on Azure
+✔️ Serverless MAUI .NET on Azure Microsoft Visual Studio 2022 Community
 
-✔️ Serverless MAUI Flutter on Google Cloud
+✔️ Serverless MAUI Flutter on Google Cloud Android Studio
 
-✔️ Serverless MAUI on AWS
+✔️ Serverless MAUI on AWS Microsoft Visual Code
 
 ✔️ Data and Video streaming Services
 
