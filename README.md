@@ -4,14 +4,14 @@
 
 ### Dear friend, welcome to blogtheristo's page
 
-Hello Devs and World, my current passion is innovating and building software products like our new Project Montreux dws project
-<p></p>
-while learning a couple of new things.
+Hello World, my current passion is innovating and building software products in the Cloud Development environment.  
+Perhaps you want to check out our new Project Montreux dws project.
 
-### ✨: How is my company is creating value? ✨
+### ✨: How do we create value? ✨
 
 Sometimes it is the best thing write a short
-[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>).
+[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>) for
+solution sales.
 
 ### Couple of links of (blogtheristo) 🤝
 
