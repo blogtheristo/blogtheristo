@@ -2,18 +2,16 @@
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
 
-### Dear friend, welcome to blogtheristo's page
+### Dear friend, welcome  
 
-Hello World, my current passion is innovating and building software products in the Cloud Development environment.  
-Perhaps you want to check out our new Project Montreux dws project.
+Risto Anton's is passionate about innovating and building software products in the Cloud Development environment.  
 
 ### ✨: How do we create value? ✨
 
-Sometimes it is the best thing write a short
 [value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>) for
 solution sales.
 
-### Couple of links of (blogtheristo) 🤝
+### links 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
@@ -21,21 +19,13 @@ solution sales.
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
 <a href="https://dws10.com"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/wp.png" alt="project office | WordPress" width="26px"/></a>
 </br>
-</br>
-If you have any project resource requests or open questions please do not hesitate to reach out to me.
 
-[Find my CVs](<https://github.com/blogtheristo/cv>).
-
-## 🔭 the Project Portfolio Pages
+[CVs](<https://github.com/blogtheristo/cv>).
+## 🔭 the Project Portfolio
 
 ⭐ [Lifetime Digital Workspace dws for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>)
 
-_Project is an Amazon Web Services backoffice project. 
-it is written on various programming languages.
-
-Contact blogtheristo if you want to contribute_
-
-⭐ [Intelligence and cognitive decisioning in dws double twin.  
+⭐ [Intelligence and cognitive decisioning in dws double twins.  
 Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>).
 
 ⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>).
