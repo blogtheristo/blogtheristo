@@ -54,7 +54,7 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ✔️ DevSecOps
 
-✔️ Cloud Security 
+✔️ Cloud Security  
 
 ✔️ Serverless MAUI .NET on Azure Microsoft Visual Studio 2022 Community
 
@@ -64,17 +64,17 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ✔️ Data and Video streaming Services
 
-✔️ Robotics, edge, AI, satellite services    
+✔️ Robotics, edge, AI, satellite  
   
 ✔️ Data warehouse as a service
 
-✔️ Data lakehouse implementations 
+✔️ Data lakehouse implementations  
 
 ✔️ Containers, Github Workspaces, CICD
 
 ✔️ Big data  
 
-✔️ Data Science Analytics 
+✔️ Data Science Analytics  
 
 ✔️ Artificial Intelligence  
 
@@ -85,46 +85,36 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ## My team builds daily on these AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services   
 
-✔️ AWS Marketplace solutions   
-✔️ Microsoft Azure Marketplace solutions   
-✔️ Amazon API Gateway   
-✔️ AWS Amplify Studio    
+✔️ AWS Marketplace solutions  
+✔️ Microsoft Azure Marketplace solutions  
+✔️ Amazon API Gateway  
+✔️ AWS Amplify Studio  
 ✔️ Amazon Aurora Serverless  
 ✔️ [AWS IAM](https://aws.amazon.com/iam/) 
 ✔️ [AWS IAM Identity Center] (https://aws.amazon.com/iam/identity-center/)
+✔️ Amazon Cognito  
+✔️ Amazon Comprehend  
+✔️ Amazon DynamoDB  
+✔️ Amazon DocumentDB  
+✔️ Amazon ECS for Kubernetes  
+✔️ Amazon Redshift  
+✔️ Amazon SageMaker Studio  
+✔️ AWS CloudFormation  
+✔️ AWS CodeCommit  
+✔️ AWS CodePipeline  
+✔️ AWS CodeStar  
+✔️ AWS CodeDeploy  
+✔️ AWS CodeBuild  
+✔️ AWS CloudTrail  
+✔️ AWS Organizations
 
-✔️ Amazon Cognito    
-✔️ Amazon Comprehend    
-✔️ Amazon DynamoDB    
-✔️ Amazon DocumentDB    
-✔️ Amazon EC2      
-✔️ Amazon ECS for Kubernetes    
-✔️ Amazon S3    
-✔️ Amazon Redshift    
-✔️ Amazon VPC    
-✔️ Amazon SageMaker Studio      
-✔️ AWS CloudFormation    
-✔️ AWS CodeCommit    
-✔️ AWS CodePipeline    
-✔️ AWS CodeStar    
-✔️ AWS CodeDeploy    
-✔️ AWS CodeBuild    
-✔️ AWS CloudTrail    
-✔️ AWS Organizations    
-
-
-    
-    
-## 📝 Latest Blog Posts from Lifetime Scope Journal (LSJ)
+### Latest Blog Posts from Lifetime Scope Journal (LSJ)  
   
 ⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)   .  
 ⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .  
 ⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .  
-⭐ [(LSJ) My Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>) .
-
-Editor-in-Chief, Risto Anton.
-  
-## 📈 GitHub Stats
+⭐ [(LSJ) Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>)  
+## GitHub Statistics  
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>) .
 
