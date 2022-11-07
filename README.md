@@ -21,6 +21,7 @@ solution sales.
 </br>
 
 [CVs](<https://github.com/blogtheristo/cv>).
+
 ## 🔭 the Project Portfolio
 
 ⭐ [Lifetime Digital Workspace dws for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>)
@@ -32,11 +33,11 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 # Interesting to me
 
-## Building the DWS platform for the intelligent industries of the Hydrogen economy age.
+## Building the DWS platform for the intelligent industries of the Hydrogen economy age
 
-### Solving the Climate change with dws build challenge 
+### Solving the Climate change with dws build challenge
 
-There is a need for a global industrial map application similar to covid-map that. 
+There is a need for a global industrial map application similar to covid-map that.
 Application that shows in real time every carbon emissive device operating.
 App that shows a dashboard and its wall  carbon emission reductions / and improvements on a map showing local situation.  
 Virtual Reality platform dws can solve this need;
@@ -82,16 +83,17 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ✔️ Insight Engines  
 
+✔️ Business Intelligence  
 
-## My team builds daily on these AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services   
+## My team builds daily on these Metaverse, Web3, AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services
 
 ✔️ AWS Marketplace solutions  
 ✔️ Microsoft Azure Marketplace solutions  
 ✔️ Amazon API Gateway  
 ✔️ AWS Amplify Studio  
 ✔️ Amazon Aurora Serverless  
-✔️ [AWS IAM](https://aws.amazon.com/iam/) 
-✔️ [AWS IAM Identity Center] (https://aws.amazon.com/iam/identity-center/)
+✔️ [AWS IAM](https://aws.amazon.com/iam/)
+✔️ [AWS IAM Identity Center] (<https://aws.amazon.com/iam/identity-center/>)
 ✔️ Amazon Cognito  
 ✔️ Amazon Comprehend  
 ✔️ Amazon DynamoDB  
@@ -107,6 +109,8 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 ✔️ AWS CodeBuild  
 ✔️ AWS CloudTrail  
 ✔️ AWS Organizations
+✔️ AWS Control Tower
+✔️ AWS QuickSight
 
 ### Latest Blog Posts from Lifetime Scope Journal (LSJ)  
   
@@ -114,6 +118,7 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 ⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .  
 ⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .  
 ⭐ [(LSJ) Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>)  
+
 ## GitHub Statistics  
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo>) .
@@ -131,7 +136,7 @@ cloud native micro services based solutions using Containers k8s/docker on Multi
 
 He has Associate Architect level knowledge of
 _Amazon Web Services_
-⭐ Service Delivery and Service Mesh; AWS Cloud Map ; AWS App Mesh. 
+⭐ Service Delivery and Service Mesh; AWS Cloud Map ; AWS App Mesh.
 ⭐ Amazon Elastic Container Service on Fargate Compute engine  
 ⭐ Management (deployment, scheduling, scaling and management of containerized applications)
 ⭐ Hosting (where containers run); Amazon EC2; AWS Fargate.
@@ -201,14 +206,14 @@ _Understands governance, risk, and compliance (GRC) strategies from an integrate
 
 ⭐ Data Security
 
-🌟 understands       
-_encryption techniques,    
-securing data at-rest, in motion, in use best practices and their tooling TX.    
+🌟 understands
+_encryption techniques,
+securing data at-rest, in motion, in use best practices and their tooling TX.
 Keep Your Own Key (KYOK) capabilities, quantum safe cryptography, confidential computing, fully homomorphic encryption (FHE)_
 
 ### Cloud Native Application Development
 
-⭐ AWS Beansstalk 
+⭐ AWS Beansstalk
 ⭐ Adobe Creative Cloud
 
 ⭐ NodeJS
