@@ -6,11 +6,6 @@
 
 Risto Anton's is passionate about innovating and building software products in the Cloud Development environment.  
 
-### ✨: How do we create value? ✨
-
-[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>) for
-solution sales.
-
 ### links 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
