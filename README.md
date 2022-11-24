@@ -4,7 +4,7 @@
 
 ### Dear friend, welcome  
 
-Risto Anton's is passionate about innovating and building software products in the Cloud Development environment.  
+Risto Anton's is passionate about helping clients, co-piloting projects, innovating and building SaaSes in the Cloud.  
 
 ### links 🤝
 
