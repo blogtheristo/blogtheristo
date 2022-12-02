@@ -4,11 +4,12 @@
 
 ### Dear friend, welcome  
 
-Risto Anton's is passionate helping friends along with innovating and building software products in the Cloud Development environment.  
+Risto Anton's is passionate helping friends and clients, co-piloting projects with various hats, and innovating and building software products in the Cloud Development environment.  
 
 ### ✨: How do we create value? ✨
 
-[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>).
+[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>) for
+solution sales.
 
 ### links 🤝
 
