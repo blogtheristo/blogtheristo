@@ -8,7 +8,7 @@ Risto Anton's is passionate helping friends and clients, co-piloting projects wi
 
 ### ✨: How do we create value? ✨
 
-[value proposition](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>) for
+[value proposition](<https://github.com/blogtheristo/portfolio/blob/a831f5030629df88d1e231d49ae4634fad689ad2/Value/1222_How%20do%20we%20create%20value_.pdf>) for
 solution sales.
 
 ### links 🤝
