@@ -2,7 +2,7 @@
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
 </p>
 
-### Dear friend, welcome  
+### Dear friends  
 
 Risto Anton's is passionate helping friends and clients, co-piloting projects, and innovating and building software products in the multi Cloud and MAUI environments.
 
