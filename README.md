@@ -33,7 +33,9 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 # Interesting to me
 
-## Building the DWS platform for the intelligent industries of the Hydrogen economy age
+## Building the DWS platform for the intelligent industries in the Sustainability Age
+
+with the Hydrogen economy in mind
 
 ### Solving the Climate change with dws build challenge
 
