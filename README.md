@@ -4,7 +4,10 @@
 
 ### Dear friends  
 
-Risto Anton's is passionate helping friends and clients, co-piloting projects, and innovating and building software products in the multi Cloud and MAUI environments.
+Risto Anton's is passionate helping friends and our clients,   
+leading projects, and   
+innovating and building software products in the multi Cloud and MAUI environments.  
+
 
 ### ✨: How do we create value? ✨
 
