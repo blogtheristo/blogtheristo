@@ -3,14 +3,11 @@
 </p>
 
 ### Dear friends  
-My mission is to fight climate change, erosion, and droughts with new technologies.
 
-My team is passionate helping friends and our clients,   
+My mission is to fight climate change, erosion, and droughts with new technologies. Love innovating and building software solutions for the electrification age. 
+
+My team is passionate helping friends and working with clients.   
   
-Innovating and building software solutions for the electrification age. 
-in the MAUI environment. 
-
-
 ### ✨: How do we create value? ✨
 
 [value proposition](<https://github.com/blogtheristo/portfolio/blob/a831f5030629df88d1e231d49ae4634fad689ad2/Value/1222_How%20do%20we%20create%20value_.pdf>) for
