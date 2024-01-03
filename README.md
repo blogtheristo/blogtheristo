@@ -3,10 +3,12 @@
 </p>
 
 ### Dear friends  
+My mission is to fight climate change, erosion, and droughts with new technologies.
 
-Risto Anton's is passionate helping friends and our clients,   
-leading projects, and   
-innovating and building software products in the multi Cloud and MAUI environments.  
+My team is passionate helping friends and our clients,   
+  
+Innovating and building software solutions for the electrification age. 
+in the MAUI environment. 
 
 
 ### ✨: How do we create value? ✨
@@ -27,20 +29,19 @@ solution sales.
 
 ## 🔭 the Project Portfolio
 
-⭐ [Lifetime Digital Workspace dws for intelligent industries; investors](<https://github.com/blogtheristo/investor_2022>)
+⭐ [Lifetime Digital Workspace dws for intelligent industries](<https://github.com/blogtheristo/investor_2022>)
 
-⭐ [Intelligence and cognitive decisioning in dws double twins.  
+⭐ [Intelligence and cognitive decisioning in DWS.  
 Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>).
 
-⭐ [the Project Portfolio Pages](<https://blogtheristo.github.io/portfolio/>).
+⭐ [the Project Portfolio](<https://blogtheristo.github.io/portfolio/>).
 
 # Interesting to me
 
-## Building the DWS platform for the intelligent industries in the Sustainability Age
+## Building the DWS platform for the intelligent industries 
 
-with the Hydrogen economy in mind
 
-### Solving the Climate change with dws build challenge
+### Solving the Climate change
 
 There is a need for a global industrial map application similar to covid-map that.
 Application that shows in real time every carbon emissive device operating.
@@ -58,11 +59,11 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ## Hard Skills  
 
-✔️ DevSecOps
+✔️ Gen AI
 
-✔️ Cloud Security  
+✔️ DevSecOps & Cloud Security  
 
-✔️ Serverless MAUI .NET on Azure Microsoft Visual Studio 2022 Community
+✔️ Serverless MAUI .NET on Azure Microsoft Visual Studio & Visual Code
 
 ✔️ Serverless MAUI Flutter on Google Cloud Android Studio
 
@@ -90,9 +91,9 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ✔️ Business Intelligence  
 
-## My team builds daily on these Metaverse, Web3, AWS, Microsoft Azure, IBM Cloud, TerraForm, GitHub Services
+## Metaverse, Web3, AWS, Microsoft Azure, GitHub CoPilot
 
-✔️ AWS Marketplace solutions  
+✔️ AWS 
 ✔️ Microsoft Azure Marketplace solutions  
 ✔️ Amazon API Gateway  
 ✔️ AWS Amplify Studio  
@@ -119,7 +120,7 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ### Latest Blog Posts from Lifetime Scope Journal (LSJ)  
   
-⭐ [(LSJ) Case Study: Työhyvinvoinnin kehittäminen](<https://lifetime.fi/blog/2021/hyvinvointi>)   .  
+⭐ [(LI Article) What is Superintelligence ?](<https://www.linkedin.com/pulse/what-superintelligence-risto-p%2525C3%2525A4%2525C3%2525A4rni-jk08f%3FtrackingId=81nhRAVWR6SLtGsQasPI1Q%253D%253D/?trackingId=81nhRAVWR6SLtGsQasPI1Q%3D%3D>)   .  
 ⭐ [(LSJ) the Kubernetes Engineering #cloudnative #containersation](<https://lifetime.fi/blog/k8ngineering>) .  
 ⭐ [(LSJ) Cloud servers, bare metal, and storage - Vultr.com](<https://www.vultr.com/?ref=8962686>) .  
 ⭐ [(LSJ) Journey to Certified Cloud Solutions Architect and Developer](<https://blogtheristo.medium.com/qualified-road-manager-summer-tour-c550c259a506>)  
@@ -254,7 +255,7 @@ Customer Engagement Management
 
 ⭐ Microsoft Dynamics 365
 
-Business Automation
+Business Automation With Microsoft Copilot
 
 ⭐ Microsoft Power Apps, API Gateway, IoT
 
@@ -265,6 +266,4 @@ a cup of dark roasted coffee whenever it is available.
 
 (261021)
 
-<a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png" alt="Cloud Native Trail Map"></a>
-</p>
-https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png
+<a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/
