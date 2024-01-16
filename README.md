@@ -4,11 +4,12 @@
 
 ### Dear friends  
 
-My mission is to fight climate change, erosion, and droughts with new technologies. Love innovating and building software solutions for the electrification age. 
+My mission is to fight climate change, erosion, and droughts with new technologies. 
+Love innovating and building software solutions for NEW the electrification age.  
 
 My team is passionate helping friends and working with clients.   
   
-### ✨: How do we create value? ✨
+### ✨✨✨: How do we create value? ✨✨✨  
 
 [value proposition](<https://github.com/blogtheristo/portfolio/blob/a831f5030629df88d1e231d49ae4634fad689ad2/Value/1222_How%20do%20we%20create%20value_.pdf>) for
 solution sales.
@@ -24,9 +25,15 @@ solution sales.
 
 [CVs](<https://github.com/blogtheristo/cv>).
 
-## 🔭 the Project Portfolio
+## 🔭 Project Portfolio
 
-⭐ [Lifetime Digital Workspace dws for intelligent industries](<https://github.com/blogtheristo/investor_2022>)
+⭐ [Lifetime Digital Workspace for intelligent industries](<https://github.com/blogtheristo/investor_2022>)  
+
+✨ [Lifetime Digital Workspace for intelligent industries](<https://dws10.com>)  
+
+⭐ [One Lifetime.World ](<https://github.com/blogtheristo/investor_2022>)  
+
+✨ [One Lifetime.World](<https://onelifetime.world>)  
 
 ⭐ [Intelligence and cognitive decisioning in DWS.  
 Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>).
