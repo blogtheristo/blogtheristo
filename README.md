@@ -63,11 +63,16 @@ Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel
 
 ## Hard Skills  
 
-✔️ Gen AI
+✔️ Generative AI
+✔️ Microsoft AI Studio 
+✔️ Vertex AI Studio 
+   
+✔️ DevSecOps and Hybrid Cloud Security  
 
-✔️ DevSecOps & Cloud Security  
+✔️ MAUI .NET Multi Platform development 
+✔️ Microsoft Azure 
+✔️ Microsoft Visual Studio & Visual Code 
 
-✔️ Serverless MAUI .NET on Azure Microsoft Visual Studio & Visual Code
 
 ✔️ Serverless MAUI Flutter on Google Cloud Android Studio
 
