@@ -4,14 +4,15 @@
 
 ### Dear friends  
 
-My mission is to fight climate change, erosion, and droughts with new technologies. 
-Love innovating and building software solutions for NEW the electrification age.  
+My mission as an engineer is to fight climate change, erosion, and droughts with new technologies.  
 
-My team is passionate helping friends and working with clients.   
+We at Lifetime Studios love innovating and building software solutions for the NEW H2AI electrification age.  
+
+My team is passionate helping friends and working with clients  
 
 **Lifetime World: Champions for Earth's Health**
 
-In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global organization dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
+In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and H2AI organization dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
 
 **A Legacy of Stewardship**
 
