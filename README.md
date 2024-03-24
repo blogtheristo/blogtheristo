@@ -72,7 +72,7 @@ solution sales.
 
 ⭐ [One Lifetime.World ](<https://github.com/blogtheristo/investor_2022>)  
 
-✨ [One Lifetime.World](<https://onelifetime.world>)  
+✨ [Lifetime Oy](<https://lifetime.fi>)  
 
 ⭐ [Intelligence and cognitive decisioning in DWS.  
 Building the Application ecosystem - the new hydrogen economy](<https://github.com/blogtheristo/dws>).
