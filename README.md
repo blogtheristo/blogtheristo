@@ -100,20 +100,27 @@ Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
 achievements vs. restrictions do work better.
 Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem.
 
-## Hard Skills  
+## Hard Skills 
 
-✔️ Generative AI
-✔️ Microsoft AI Studio 
-✔️ Vertex AI Studio 
+✔️ Climate Tech, Hydrogen PoCs, AI Agents  
+
+✔️ Generative AI  
+✔️ Microsoft AI Studio   
+✔️ Foundation Models and its services   
    
-✔️ DevSecOps and Hybrid Cloud Security  
+✔️ Cloud Security as Cloud Architect role   
 
-✔️ MAUI .NET Multi Platform development 
-✔️ Microsoft Azure 
-✔️ Microsoft Visual Studio & Visual Code 
+✔️ MAUI .NET Multi Platform development with Blazor   
 
+✔️ Oqtane is an open source CMS and Application Framework that provides advanced functionality for developing web, mobile, and desktop applications on .NET. It leverages Blazor to compose a fully dynamic digital experience. Whether you are looking for a platform to accelerate your web development efforts, or simply interested in exploring the anatomy of a large-scale Blazor application, Oqtane provides a solid foundation based on proven enterprise architectural principles and patterns.  
 
-✔️ Serverless MAUI Flutter on Google Cloud Android Studio
+✔️ Blazor is an open source and cross-platform web UI framework for building single-page applications using .NET and C#. Blazor applications can be hosted in a variety of ways. Blazor Server uses SignalR (WebSockets) to host your application on a web server and provide a responsive and robust development experience. Blazor WebAssembly relies on Wasm, an open web standard that does not require plugins in order for applications to run natively in a web browser. Blazor Hybrid is part of .NET MAUI and uses a Web View to render components natively on mobile and desktop devices. Razor components can be shared across all of the hosting models without any modification.
+
+Blazor is a feature of ASP.NET, the popular cross platform development framework from Microsoft that provides powerful tools and libraries for building modern software applications.  
+
+✔️ Microsoft Azure  
+
+✔️ Microsoft Visual Studio & Visual Code     
 
 ✔️ Serverless MAUI on AWS Microsoft Visual Code
 
