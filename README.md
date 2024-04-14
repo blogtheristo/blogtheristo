@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
-</p>
 
 ### Dear friends  
 
