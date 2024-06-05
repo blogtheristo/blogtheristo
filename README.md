@@ -3,51 +3,68 @@
 
 ### Dear friends  
 
-My mission as an engineer is to fight climate change, erosion, and droughts with new technologies.  
+My mission as an engineer is to fight climate change, erosion, and droughts with new solutions built from AI, Quantum, Machine Learning, Cloud technologies.  
 
 We at Lifetime Studios love innovating and building software solutions for the NEW H2AI electrification age.  
 
 My team is passionate helping friends and working with clients  
 
-**Lifetime World: Champions for Earth's Health**
+### Lifetime World: We are the Champions for Earth's Health : the Foundation Models for DWS
 
-In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and H2AI organization dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
+In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and Lifetime H2AIQ solutions are dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
 
-**A Legacy of Stewardship**
+### looking into the following foundation models:
+
+Aurora Foundation Model: Aurora is a large-scale foundation model of the atmosphere, trained on over a million hours of diverse weather and climate data. It produces operational forecasts for various atmospheric prediction problems, including those with limited training data, heterogeneous variables, and extreme events. Aurora can generate 5-day global air pollution predictions and 10-day high-resolution weather forecasts in under a minute, outperforming state-of-the-art classical simulation tools and specialized deep learning models 1 .
+
+DeepSpeed4Science: This initiative by Microsoft aims to build unique capabilities through AI system technology innovations to help domain experts unlock significant scientific mysteries. It supports various scientific models, including those for climate science, energy systems, and material discovery. DeepSpeed4Science provides new training and inference technologies tailored for accelerating scientific discoveries, which could be beneficial for hydrogen renewables processes 2 .
+
+Scientific Foundation Model (SFM): SFM aims to create a unified large-scale foundation model to empower natural scientific discovery by supporting diverse inputs and multiple scientific domains, including energy systems. This model can handle various computational tasks and is designed to support scientific discoveries across different fields 2 .
+
+ClimaX: ClimaX is the first foundation model designed to perform a wide variety of weather and climate modeling tasks. It can absorb many different datasets with different variables and resolutions, potentially improving weather forecasting. This model could be useful for predicting weather conditions that affect renewable energy production 2 .
+
+These models leverage advanced AI techniques and vast datasets to provide accurate predictions and insights, which can be crucial for optimizing hydrogen renewables processes.
+
+
+A Legacy of Stewardship
 
 Since our inception, Lifetime World has embarked on a journey of environmental conservation, fueled by a profound belief in the interconnectedness of all living things. We recognize that our planet is not merely a resource to be exploited but a sanctuary to be cherished.
 
-**Combating Climate Change: Our Top Priority**
+Combating Climate Change: a Top Priority
 
 Climate change looms as the most pressing threat to our planet's future. Rising temperatures, extreme weather events, and melting glaciers are just a few of the consequences of our carbon emissions. Lifetime World is committed to mitigating climate change by promoting renewable energy sources, enhancing energy efficiency, and advocating for sustainable practices.
 
-**Erosion: A Silent Threat**
+Erosion: A Silent Threat
 
 Erosion, the gradual wearing away of land, is a silent yet devastating force. It threatens fertile soils, disrupts ecosystems, and contributes to flooding. Lifetime World works tirelessly to combat erosion by promoting soil conservation techniques, planting trees, and restoring degraded landscapes.
 
-**Drought: A Parched Planet**
+Drought: A Parched Planet
 
 Drought, characterized by prolonged periods of insufficient rainfall, is a growing concern, affecting millions of people around the world. Lifetime World is at the forefront of drought resilience, promoting water conservation, developing drought-resistant crops, and implementing rainwater harvesting systems.
 
-**Our Path Forward: A Collaborative Effort**
+Our Path Forward: A Collaborative Research Effort
 
-We recognize that the challenges we face are too immense to be tackled alone. Lifetime World fosters partnerships with individuals, communities, businesses, and governments, creating a united front to address environmental issues.
+We recognize that the challenges we face are too immense to be tackled alone. 
+Lifetime World fosters partnerships with individuals, communities, businesses, and governments, creating a united front to address environmental issues.
+Feel free to discuss about Intern opportunities to learn together.
 
-**Empowering Future Generations**
+Empowering Future Generations
 
 Education is the cornerstone of environmental stewardship. Lifetime World equips young minds with the knowledge and skills to become responsible stewards of our planet, ensuring a sustainable future for generations to come.
 
-**Our Impact: A World in Harmony**
+Our Impact: A World in Harmony
 
-With each tree planted, every watt of renewable energy generated, and every drop of water conserved, we are weaving a tapestry of environmental restoration. Lifetime World envisions a world where nature thrives, communities flourish, and humanity lives in harmony with its surroundings.
+With each tree planted, every watt of renewable energy generated, and every drop of water burned from hydrogen, or conserved, we are weaving a tapestry of environmental restoration. 
 
-**Join Us in Our Mission**
+Lifetime World envisions a world where nature thrives, communities flourish, and humanity lives in harmony with its surroundings.
+
+## Join Us in Our Mission
 
 Together, we can create a world where climate change is a distant memory, erosion is a relic of the past, and drought is a forgotten nightmare. Together, we can make our planet a beacon of hope for generations to come.
 
 Lifetime World: Champions for Earth's Health, stewards of a sustainable future.
   
-### ✨✨✨: How do we create value? ✨✨✨  
+### ✨✨✨: How do we create value (old)? ✨✨✨  
 
 [value proposition](<https://github.com/blogtheristo/portfolio/blob/a831f5030629df88d1e231d49ae4634fad689ad2/Value/1222_How%20do%20we%20create%20value_.pdf>) for
 solution sales.
