@@ -13,7 +13,7 @@ My team is passionate helping friends and working with clients
 
 In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and Lifetime H2AIQ solutions are dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
 
-### looking into the following foundation models:
+### A look into the foundation models:
 
 Aurora Foundation Model: Aurora is a large-scale foundation model of the atmosphere, trained on over a million hours of diverse weather and climate data. It produces operational forecasts for various atmospheric prediction problems, including those with limited training data, heterogeneous variables, and extreme events. Aurora can generate 5-day global air pollution predictions and 10-day high-resolution weather forecasts in under a minute, outperforming state-of-the-art classical simulation tools and specialized deep learning models 1 .
 
