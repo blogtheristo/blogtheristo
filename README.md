@@ -5,9 +5,10 @@
 
 My mission as an engineer is to fight climate change, erosion, and droughts with building and publishing new solutions done with AI, Quantum, Machine Learning, Cloud technologies.  
 
-We at Lifetime Studios love innovating and building software solutions for the NEW H2AI electrification age.  
+We at Lifetime Studios love innovating and building software solutions for the electrification age.  
 
-My team is passionate helping friends and working with clients  
+My team is passionate helping friends and working with clients.
+NEW NIS2 available from Lifetime Consulting. 
 
 ### Lifetime World: We are the Champions
 
