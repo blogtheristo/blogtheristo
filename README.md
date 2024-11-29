@@ -8,7 +8,7 @@ My mission as an engineer is to fight climate change, erosion, and droughts with
 We at Lifetime Studios love innovating and building software solutions for the electrification age.  
 
 My team is passionate helping friends and working with clients.
-NEW NIS2 available from Lifetime Consulting. 
+NEW NIS2 Compliance Partner is available from Lifetime Consulting to your business. 
 
 ### Lifetime World: We are the Champions
 
