@@ -3,7 +3,7 @@
 
 ### Dear friends  
 
-My mission as an engineer is to fight climate change, erosion, and droughts with building and publishing new solutions done with AI, Quantum, Machine Learning, Cloud technologies.  
+My mission as an engineer is to fight climate change, erosion, and droughts with building and publishing new solutions done with AI Foundation models, Agents, Quantum, Machine Learning, Cloud Native Application technologies.  
 
 We at Lifetime Studios love innovating and building software solutions for the electrification age.  
 
