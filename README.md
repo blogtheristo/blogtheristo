@@ -415,9 +415,9 @@ Business Automation With Microsoft Copilot
 💖 On his freetime Risto Anton is passionate about Gym training,
 
 Running 
-Half-Marathon PB 1:22.20
-Marathon PB 3:41:00
-Rist likes to play guitar with friends and enjoys.
+Half-Marathon PB 1:22.20  
+Marathon PB 3:41:00  
+Risto Anton likes to play guitar with friends and enjoys.
 a cup of dark roasted coffee whenever available with collegues.  
 
 (040925)
