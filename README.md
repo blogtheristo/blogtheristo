@@ -408,7 +408,7 @@ Customer Engagement Management
 
 ⭐ Microsoft Dynamics 365
 
-Business Automation With Microsoft Copilot
+Business Automation
 
 ⭐ Cursor AI, Claude Code, Gemini Pro, AWS AI
 
