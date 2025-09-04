@@ -410,12 +410,15 @@ Customer Engagement Management
 
 Business Automation With Microsoft Copilot
 
-⭐ Microsoft Power Apps, API Gateway, IoT
+⭐ Cursor AI, Claude Code, Gemini Pro, AWS AI
 
 💖 On his freetime Risto Anton is passionate about Gym training,
-especially running PB 1:22.20 (half-marathon).  
-He likes to play guitar with friends and enjoys.
-a cup of dark roasted coffee whenever it is available.  
 
-(030124)
+Running 
+Half-Marathon PB 1:22.20
+Marathon PB 3:41:00
+Rist likes to play guitar with friends and enjoys.
+a cup of dark roasted coffee whenever available with collegues.  
+
+(040925)
 
