@@ -7,9 +7,11 @@ We at Lifetime Studios love innovating and building software solutions for the e
 My team is passionate helping friends and working with clients.
 NEW NIS2 Compliance Partner is available from Lifetime Consulting to your business.
 
-### Lifetime World: We are the Champions
+### Lifetime World: We are the Champions of Energy
 
-In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and Lifetime H2AIQ solutions are dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
+In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global movement community with Lifetime H2AIQ solutions are dedicated to environmental stewardship.   
+
+Renewable energy stands as a beacon of hope, united in the mission to protect Mother Earth.
 
 We are looking for Seniors that share our mission.
 See <https://onelifetime.world> and join the advisors.
