@@ -1,24 +1,20 @@
-<p align="center">
-  <a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://github.com/blogtheristo/blogtheristo/blob/main/images/GitHub_kuva1.jpg" alt=""></a>
-
-### Dear friends  
+# Dear lifetime friend  
 
 My mission as an engineer is to fight climate change, erosion, and droughts with building and publishing new solutions done with AI Foundation models, Agents, Quantum, Machine Learning, Cloud Native Application technologies.  
 
 We at Lifetime Studios love innovating and building software solutions for the electrification age.  
 
 My team is passionate helping friends and working with clients.
-NEW NIS2 Compliance Partner is available from Lifetime Consulting to your business. 
+NEW NIS2 Compliance Partner is available from Lifetime Consulting to your business.
 
 ### Lifetime World: We are the Champions
 
 In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and Lifetime H2AIQ solutions are dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
 
-We are looking for Seniors that share our mission. 
-See https://onelifetime.world and join the advisors.
+We are looking for Seniors that share our mission.
+See <https://onelifetime.world> and join the advisors.
 
-
-### the Foundation Model for DWS IQ 
+### the Foundation Model for DWS IQ
 
 In the heart of nature's symphony lies the delicate balance that sustains life. Yet, human actions have disrupted this harmony, causing climate change, erosion, and drought to ravage our planet. Lifetime World, a global community and Lifetime H2AIQ solutions are dedicated to environmental stewardship, stands as a beacon of hope, united in the mission to protect Mother Earth.
 
@@ -129,7 +125,7 @@ Drought, characterized by prolonged periods of insufficient rainfall, is a growi
 
 Our Path Forward: A Collaborative Research Effort
 
-We recognize that the challenges we face are too immense to be tackled alone. 
+We recognize that the challenges we face are too immense to be tackled alone.
 Lifetime World fosters partnerships with individuals, communities, businesses, and governments, creating a united front to address environmental issues.
 Feel free to discuss about Intern opportunities to learn together.
 
@@ -139,7 +135,7 @@ Education is the cornerstone of environmental stewardship. Lifetime World equips
 
 Our Impact: A World in Harmony
 
-With each tree planted, every watt of renewable energy generated, and every drop of water burned from hydrogen, or conserved, we are weaving a tapestry of environmental restoration. 
+With each tree planted, every watt of renewable energy generated, and every drop of water burned from hydrogen, or conserved, we are weaving a tapestry of environmental restoration.
 
 Lifetime World envisions a world where nature thrives, communities flourish, and humanity lives in harmony with its surroundings.
 
@@ -168,7 +164,7 @@ Connect with the Founder of Lifetime World
 
 ✨ [Lifetime Digital Workspace for intelligent industries](<https://dws10.com>)  
 
-⭐ [One Lifetime.World ](<https://github.com/blogtheristo/investor_2022>)  
+⭐ [One Lifetime.World](<https://github.com/blogtheristo/investor_2022>)  
 
 ✨ [Lifetime Oy](<https://lifetime.fi>)  
 
@@ -179,8 +175,7 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 # Interesting to me
 
-## Building the DWS platform for the intelligent industries 
-
+## Building the DWS platform for the intelligent industries
 
 ### Solving the Climate change
 
@@ -194,21 +189,21 @@ Wall of fame cities, companies, products, people, what not.
 Because your device operating causing emissions are the problem; it will be addressed;
 soon.
 What is measured and followed are sooner fixed.
-Lets make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
-achievements vs. restrictions do work better.
+Let's make this a fun journey 🥰😊🍀🍀🍀🍀🍀.
+Achievements work better than restrictions.
 Use of an intelligent building ecosystem using 5G/IoT Sensors (Wirepas) and fuel cells ecosystem.
 
-## Hard Skills 
+## Hard Skills
 
 ✔️ Climate Tech, Hydrogen PoCs, AI Agents  
 
 ✔️ Generative AI  
-✔️ Microsoft AI Studio   
-✔️ Foundation Models and its services   
-   
-✔️ Cloud Security as Cloud Architect role   
+✔️ Microsoft AI Studio
+✔️ Foundation Models and its services
 
-✔️ MAUI .NET Multi Platform development with Blazor   
+✔️ Cloud Security as Cloud Architect role
+
+✔️ MAUI .NET Multi Platform development with Blazor
 
 ✔️ Oqtane is an open source CMS and Application Framework that provides advanced functionality for developing web, mobile, and desktop applications on .NET. It leverages Blazor to compose a fully dynamic digital experience. Whether you are looking for a platform to accelerate your web development efforts, or simply interested in exploring the anatomy of a large-scale Blazor application, Oqtane provides a solid foundation based on proven enterprise architectural principles and patterns.  
 
@@ -218,7 +213,7 @@ Blazor is a feature of ASP.NET, the popular cross platform development framework
 
 ✔️ Microsoft Azure  
 
-✔️ Microsoft Visual Studio & Visual Code     
+✔️ Microsoft Visual Studio & Visual Code
 
 ✔️ Serverless MAUI on AWS Microsoft Visual Code
 
@@ -246,7 +241,7 @@ Blazor is a feature of ASP.NET, the popular cross platform development framework
 
 ## Metaverse, Web3, AWS, Microsoft Azure, GitHub CoPilot
 
-✔️ AWS 
+✔️ AWS
 ✔️ Microsoft Azure Marketplace solutions  
 ✔️ Amazon API Gateway  
 ✔️ AWS Amplify Studio  
@@ -307,7 +302,7 @@ _Google Cloud Code Development_
 _Microsoft Azure IAM & migration deployments_.
 _Azure DevOps_.  
 
-Developer stack: Go, C#, Python, React, JavaScript, Dapr, Solidity, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jyputer notebooks.  
+Developer stack: Go, C#, Python, React, JavaScript, Dapr, Solidity, NoSQL, YAML, JSON, GitHub Actions, MySQL, Kubernetes, AWS EKS Everywhere, Docker, Helm, Jupyter notebooks.  
 
 Risto Anton have created successful market-entry strategies, product roadmaps and investor decks for various product lines,
 ideated and built innovative solutions including their software architecture planning and CI/CD.
@@ -372,16 +367,14 @@ Keep Your Own Key (KYOK) capabilities, quantum safe cryptography, confidential c
 
 ### Cloud Native Application Development
 
-⭐ AWS Beansstalk
-⭐ Adobe Creative Cloud
-
-⭐ NodeJS
-
-⭐ Cloud Native Computing Foundation
+⭐ AWS Beanstalk  
+⭐ Microsoft .NET Aspire  
+⭐ NodeJS  
+⭐ Docker  
 
 <a href="https://github.com/cncf"><img align="left" src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4g" alt="Risto Anton | Cloud Native Foundation" width="26px"/></a>.
 
-⭐ Microservices Builds:
+⭐ Microservices & Agentic AI
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge and languages.
 
 <a href="https://github.com/dapr/dapr"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/dapr.png" alt="blogtheristo | dapr" width="26px"/></a>
@@ -414,11 +407,8 @@ Business Automation
 
 💖 On his freetime Risto Anton is passionate about Gym training,
 
-Running 
+Running  
 Half-Marathon PB 1:22.20  
 Marathon PB 3:41:00  
 Risto Anton likes to play guitar with friends and enjoys.
-a cup of dark roasted coffee whenever available with collegues.  
-
-(040925)
-
+a cup of dark roasted coffee whenever available with colleagues.  
