@@ -16,7 +16,9 @@ The Software AI Engineering team at Lifetime Studios love innovating and buildin
 Lifetime Consulting and its Specialists are the Corporate NIS2 Compliance Partner.
 Our Specialists are available from Lifetime Consulting Advice, Mentor, Coach, Build, and Transform.  
 
-Lifetime Fleet is our human oriented service model where we advise, mentor, coach, build and transform one to one while offer you ride to the Airport or Business Meeting. Check out Lifetime Fleet from [lifetime.fi/fleet](https://lifetime.fi/fleet)  
+Lifetime Fleet is our human oriented service model where we advise, mentor, coach, build and transform one to one and with AI while offer you travel to your destination ( for example to the Airport). While onboard You may have mentoring session one to one, a team meeting or perhaps one of our arranged Business Meetings (discussion with the investor we deliver to your project).    
+
+Check out Lifetime Fleet from [lifetime.fi/fleet](https://lifetime.fi/fleet)  
   
 
 ### Lifetime World: We are the Champions of Energy
@@ -191,9 +193,9 @@ Building the Application ecosystem - the new hydrogen economy](<https://github.c
 
 ## Building the DWS 6.0 Platform for Intelligent Industries for Sustainability
 
-### Solving the Climate change
+### New Solutions for the Climate change - with AI - on Lifetime Fleet
 
-There is a need for a global industrial map application similar to a covid-map.
+tba.... a global industrial map application similar to a covid-map.
 An application that shows in real time every carbon-emissive device operating.
 An app that shows a dashboard and its wall of carbon emission reductions and improvements on a map showing the local situation.  
 A virtual reality platform (DWS) can solve this need.
