@@ -165,12 +165,11 @@ Lifetime World Advisors are champions for Earth's health and stewards of a susta
 
 Connect with the Founder of Lifetime World
 
-[![Risto Anton | LinkedIn](https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png)](https://www.linkedin.com/in/ristoanton/)
-[![blogtheristo | StackShare](https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg)](https://stackshare.io/blogtheristo)
-[![blogtheristo | Medium](https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/medium_1.png)](https://blogtheristo.medium.com/)
-[![blogtheristo | Twitch](https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png)](https://www.twitch.tv/blogtheristo22)
-[![project office | WordPress](https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/wp.png)](https://dws10.com)
-</br>
+<a href="https://www.linkedin.com/in/ristoanton/"><img src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
+<a href="https://stackshare.io/blogtheristo"><img src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
+<a href="https://blogtheristo.medium.com/"><img src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/medium_1.png" alt="blogtheristo | Medium" width="26px"/></a>
+<a href="https://www.twitch.tv/blogtheristo22"><img src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Twitch" width="26px"/></a>
+<a href="https://dws10.com"><img src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/wp.png" alt="project office | WordPress" width="26px"/></a>
 
 [CV](https://github.com/blogtheristo/cv).
 
