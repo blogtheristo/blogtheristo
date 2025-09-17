@@ -1,0 +1,28 @@
+{
+  "monitoring_date": "2025-09-17T08:31:42.111179",
+  "total_repositories": 3,
+  "rating_distribution": {
+    "5_stars": 1,
+    "4_stars": 1,
+    "3_stars": 1,
+    "2_stars": 0,
+    "1_star": 0
+  },
+  "top_rated": [
+    {
+      "name": "ai-payments/ap2-core",
+      "rating": 5,
+      "url": "https://github.com/ai-payments/ap2-core"
+    },
+    {
+      "name": "devtools/agent-payment-sdk",
+      "rating": 4,
+      "url": "https://github.com/devtools/agent-payment-sdk"
+    },
+    {
+      "name": "examples/ap2-example",
+      "rating": 3,
+      "url": "https://github.com/examples/ap2-example"
+    }
+  ]
+}

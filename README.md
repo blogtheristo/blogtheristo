@@ -291,6 +291,24 @@ Blazor is a feature of ASP.NET, the popular cross-platform development framework
 
 [![blogtheristo github stats](https://github-readme-stats.vercel.app/api?username=blogtheristo)](https://github.com/blogtheristo)
 
+### AP2 Repository Monitor 🤖
+
+This repository includes an automated system that monitors and rates GitHub repositories implementing the **Agent Payments Protocol (AP2)**. The system:
+
+- 🔍 **Searches** GitHub for AP2-related repositories every 5 days
+- ⭐ **Rates** repositories from 1-5 stars based on:
+  - AP2 implementation quality (40%)
+  - Documentation quality (20%)
+  - Repository activity (20%)
+  - Community engagement (10%)
+  - Best practices - CI/CD, licensing (10%)
+- 📊 **Generates** comprehensive reports and tracking data
+- 🤖 **Runs automatically** via GitHub Actions
+
+**Latest AP2 Monitoring Results**: Check the [`ap2-monitor/data/`](./ap2-monitor/data/) directory for recent findings.
+
+[View AP2 Monitor Documentation →](./ap2-monitor/README.md)
+
 ### Lifetime Studios on Stackshare
 
 - [Lifetime Studios on Stackshare.io](https://stackshare.io/blogtheristo).

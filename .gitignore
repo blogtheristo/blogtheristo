@@ -5,3 +5,9 @@ icon/Google.jpg
 icon/Governance_Agilty.jpg
 icon/Resources_AWS_ControlTower.jpg
 icon/thank_you_aws.jpg
+
+# AP2 Monitor logs and temporary files
+ap2-monitor/*.log
+ap2-monitor/__pycache__/
+*.pyc
+*.pyo
