@@ -1,4 +1,4 @@
-# AP2 Repository Monitoring Agent 0.1
+# AP2 Repository Monitoring Agent 0.11
 
 The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON reports with enhanced analysis capabilities.
 
