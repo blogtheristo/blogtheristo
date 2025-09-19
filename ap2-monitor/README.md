@@ -1,15 +1,16 @@
-# AP2 Repository Monitoring Agent 0.11
+# AP2 Repository Monitoring Agent 0.12
 
-The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON reports with enhanced analysis capabilities.
+The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON and Excel reports with enhanced analysis capabilities.
 
 ## Features
 
 - **Repository Rating System**: Tracks and sorts repositories by rating
 - **Automated Explanations**: Generates intelligent analysis of repository usage patterns
 - **DWS IQ Suitability Assessment**: Evaluates repositories for Digital Workspace Intelligence compatibility
+- **JSON and Excel Reporting**: Generates reports in both JSON and Excel formats.
 - **Extensible Architecture**: Easy to customize criteria and add new analysis features
 
-## Enhanced JSON Output
+## Enhanced JSON and Excel Output
 
 Each repository in the `top_rated` list now includes:
 
@@ -23,19 +24,21 @@ Each repository in the `top_rated` list now includes:
 }
 ```
 
+The Excel report (`results<YYYYMMDD>.xlsx`) contains the same data in a tabular format.
+
 ### New Fields
 
-1. **`explanation`**: Automated analysis based on:
-   - Programming language capabilities
-   - Repository popularity (stars/forks)
-   - Topic categorization (AI/ML, cloud-native, web development)
-   - Community engagement metrics
+1.  **`explanation`**: Automated analysis based on:
+    -   Programming language capabilities
+    -   Repository popularity (stars/forks)
+    -   Topic categorization (AI/ML, cloud-native, web development)
+    -   Community engagement metrics
 
-2. **`dws_iq_suitable`**: Boolean assessment using customizable criteria:
-   - Language suitability for DWS environments
-   - Relevant topic tags
-   - Quality thresholds (stars, rating)
-   - Description keyword matching
+2.  **`dws_iq_suitable`**: Boolean assessment using customizable criteria:
+    -   Language suitability for DWS environments
+    -   Relevant topic tags
+    -   Quality thresholds (stars, rating)
+    -   Description keyword matching
 
 ## Usage
 
@@ -61,9 +64,9 @@ repo = RepositoryData(
 
 monitor.add_repository(repo)
 
-# Generate JSON report
-json_report = monitor.generate_json_report()
-print(json_report)
+# Generate and save JSON and Excel reports
+monitor.save_reports()
+print("Reports generated successfully in the 'Results' directory.")
 ```
 
 ### Running the Example
@@ -72,6 +75,7 @@ print(json_report)
 cd ap2-monitor
 python3 monitor.py
 ```
+This will create a `Results` directory with `report.json` and `results<YYYYMMDD>.xlsx`.
 
 ### Running Tests
 
@@ -84,10 +88,10 @@ python3 test_monitor.py
 
 The DWS IQ suitability assessment can be easily customized by modifying the `_assess_dws_iq_suitability` method in `monitor.py`. Current criteria include:
 
-- **Language Suitability**: Python, Go, JavaScript, TypeScript, C#, Java
-- **Topic Relevance**: AI, cloud, microservices, automation, analytics
-- **Quality Threshold**: Minimum 10 stars and rating ≥ 3
-- **Description Keywords**: intelligent, digital, workspace, industry, etc.
+-   **Language Suitability**: Python, Go, JavaScript, TypeScript, C#, Java
+-   **Topic Relevance**: AI, cloud, microservices, automation, analytics
+-   **Quality Threshold**: Minimum 10 stars and rating ≥ 3
+-   **Description Keywords**: intelligent, digital, workspace, industry, etc.
 
 ### Example Customization
 
@@ -111,23 +115,23 @@ def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
 
 ## Architecture
 
-- **`monitor.py`**: Main monitoring agent with analysis logic
-- **`test_monitor.py`**: Comprehensive test suite
-- **`RepositoryData`**: Data class for repository information
-- **`AP2Monitor`**: Main monitoring class with extensible methods
+-   **`monitor.py`**: Main monitoring agent with analysis logic
+-   **`test_monitor.py`**: Comprehensive test suite
+-   **`RepositoryData`**: Data class for repository information
+-   **`AP2Monitor`**: Main monitoring class with extensible methods
 
 ## Dependencies
 
-- Python 3.6+
-- Standard library only (no external dependencies)
+-   Python 3.6+
+-   pandas
 
 ## Testing
 
 The test suite includes:
-- Unit tests for all core functionality
-- Integration tests for complete workflows
-- Test cases for both new fields
-- Validation of JSON structure and content
+-   Unit tests for all core functionality
+-   Integration tests for complete workflows
+-   Test cases for both new fields
+-   Validation of JSON structure and content
 
 Run tests with:
 ```bash
