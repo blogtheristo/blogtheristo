@@ -8,8 +8,10 @@ with repository ratings, analysis, and DWS IQ suitability assessments.
 
 import json
 import re
+import os
 from typing import Dict, List, Any
 from dataclasses import dataclass
+import pandas as pd
 
 
 @dataclass
@@ -182,6 +184,40 @@ class AP2Monitor:
             "top_rated": self.generate_top_rated_report()
         }
         return json.dumps(report, indent=indent)
+    
+    def save_reports(self, base_path: str = ".") -> None:
+        """
+        Save reports to JSON and Excel files in Results directory
+        
+        Args:
+            base_path: Base directory path (defaults to current directory)
+        """
+        # Create Results directory if it doesn't exist
+        results_dir = os.path.join(base_path, "Results")
+        os.makedirs(results_dir, exist_ok=True)
+        
+        # Generate report data
+        report_data = self.generate_top_rated_report()
+        
+        # Save JSON report
+        json_report = {
+            "top_rated": report_data
+        }
+        json_file_path = os.path.join(results_dir, "report.json")
+        with open(json_file_path, 'w', encoding='utf-8') as f:
+            json.dump(json_report, f, indent=2, ensure_ascii=False)
+        
+        print(f"JSON report saved to: {json_file_path}")
+        
+        # Save Excel report
+        if report_data:
+            # Convert to DataFrame for Excel export
+            df = pd.DataFrame(report_data)
+            excel_file_path = os.path.join(results_dir, "report.xlsx")
+            df.to_excel(excel_file_path, index=False, engine='openpyxl')
+            print(f"Excel report saved to: {excel_file_path}")
+        else:
+            print("No data to save to Excel file")
 
 
 def main():
@@ -225,8 +261,8 @@ def main():
     for repo in example_repos:
         monitor.add_repository(repo)
     
-    # Generate and print the report
-    print(monitor.generate_json_report())
+    # Save the report to files instead of printing
+    monitor.save_reports()
 
 
 if __name__ == "__main__":

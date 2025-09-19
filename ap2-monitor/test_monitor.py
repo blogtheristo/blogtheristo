@@ -11,6 +11,7 @@ import json
 from unittest.mock import patch
 import sys
 import os
+import pandas as pd
 
 # Add the ap2-monitor directory to the Python path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -329,6 +330,72 @@ class TestIntegration(unittest.TestCase):
         self.assertEqual(second_repo["name"], "legacy-tool")
         self.assertEqual(second_repo["rating"], 2)
         self.assertFalse(second_repo["dws_iq_suitable"])
+
+class TestFileSaving(unittest.TestCase):
+    """Test cases for file saving functionality"""
+    
+    def setUp(self):
+        """Set up test fixtures"""
+        self.monitor = AP2Monitor()
+        self.test_repo = RepositoryData(
+            name="test-repo",
+            rating=4,
+            url="https://github.com/test/test-repo",
+            description="A test repository for file saving",
+            topics=['test', 'python'],
+            language="Python",
+            stars=100,
+            forks=20
+        )
+        self.monitor.add_repository(self.test_repo)
+        
+        # Clean up any existing test files
+        self.test_dir = "/tmp/test_results"
+        if os.path.exists(self.test_dir):
+            import shutil
+            shutil.rmtree(self.test_dir)
+    
+    def tearDown(self):
+        """Clean up test files"""
+        if os.path.exists(self.test_dir):
+            import shutil
+            shutil.rmtree(self.test_dir)
+    
+    def test_save_reports_creates_directory(self):
+        """Test that save_reports creates Results directory"""
+        self.monitor.save_reports(self.test_dir)
+        
+        results_dir = os.path.join(self.test_dir, "Results")
+        self.assertTrue(os.path.exists(results_dir))
+        self.assertTrue(os.path.isdir(results_dir))
+    
+    def test_save_reports_creates_json_file(self):
+        """Test that save_reports creates JSON file with correct content"""
+        self.monitor.save_reports(self.test_dir)
+        
+        json_file = os.path.join(self.test_dir, "Results", "report.json")
+        self.assertTrue(os.path.exists(json_file))
+        
+        # Verify JSON content
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        self.assertIn("top_rated", data)
+        self.assertEqual(len(data["top_rated"]), 1)
+        self.assertEqual(data["top_rated"][0]["name"], "test-repo")
+    
+    def test_save_reports_creates_excel_file(self):
+        """Test that save_reports creates Excel file with correct content"""
+        self.monitor.save_reports(self.test_dir)
+        
+        excel_file = os.path.join(self.test_dir, "Results", "report.xlsx")
+        self.assertTrue(os.path.exists(excel_file))
+        
+        # Verify Excel content using pandas
+        df = pd.read_excel(excel_file, engine='openpyxl')
+        self.assertEqual(len(df), 1)
+        self.assertEqual(df.iloc[0]['name'], "test-repo")
+        self.assertEqual(df.iloc[0]['rating'], 4)
 
 
 if __name__ == "__main__":
