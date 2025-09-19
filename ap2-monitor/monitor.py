@@ -213,7 +213,7 @@ class AP2Monitor:
         if report_data:
             # Convert to DataFrame for Excel export
             df = pd.DataFrame(report_data)
-            excel_file_path = os.path.join(results_dir, "report.xlsx")
+            excel_file_path = os.path.join(results_dir, "results.xlsx")
             df.to_excel(excel_file_path, index=False, engine='openpyxl')
             print(f"Excel report saved to: {excel_file_path}")
         else:

@@ -388,7 +388,7 @@ class TestFileSaving(unittest.TestCase):
         """Test that save_reports creates Excel file with correct content"""
         self.monitor.save_reports(self.test_dir)
         
-        excel_file = os.path.join(self.test_dir, "Results", "report.xlsx")
+        excel_file = os.path.join(self.test_dir, "Results", "results.xlsx")
         self.assertTrue(os.path.exists(excel_file))
         
         # Verify Excel content using pandas
