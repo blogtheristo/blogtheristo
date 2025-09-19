@@ -5,3 +5,7 @@ icon/Google.jpg
 icon/Governance_Agilty.jpg
 icon/Resources_AWS_ControlTower.jpg
 icon/thank_you_aws.jpg
+
+# Generated report files
+Results/
+ap2-monitor/Results/
