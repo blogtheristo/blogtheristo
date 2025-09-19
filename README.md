@@ -2,10 +2,10 @@
 
 Thank you for visiting my humble profile blogtheristo 6.0 !
 
-
-
 My mission as an AI Engineer with the Lifetime World initiative is to fight
 climate change, erosion, and droughts.
+
+Lifetime Oy Ltd. is AI innovation Go-To Powerhouse. We deliver Lifetime Firehorse Product Line, Consulting, tailored Solutions and Strategic Cloud & Sustainability Services.  
 
 The focus of Lifetime World and its lively community at onelifetime.world is to build and publish new solutions that mitigate the effects of climate change.
 
