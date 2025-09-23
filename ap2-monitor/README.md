@@ -1,4 +1,4 @@
-# AP2 Repository Monitoring Agent 0.12
+# AP2 Repository Monitoring Agent 0.13
 
 The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON and Excel reports with enhanced analysis capabilities.
 
@@ -75,7 +75,15 @@ print("Reports generated successfully in the 'Results' directory.")
 cd ap2-monitor
 python3 monitor.py
 ```
-This will create a `Results` directory with `report.json` and `results<YYYYMMDD>.xlsx`.
+This will create a `Results` directory with two files:
+
+- `Result<ddmmyyyy>.json` (JSON report)
+- `Result<ddmmyyyy>.xlsx` (Excel report)
+
+Example for 23 September 2025:
+
+- `Result23092025.json`
+- `Result23092025.xlsx`
 
 ### Running Tests
 
@@ -122,8 +130,46 @@ def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
 
 ## Dependencies
 
--   Python 3.6+
--   pandas
+-   Python 3.10+ (tested with 3.12/3.13)
+-   pandas >= 2.0 (Excel export)
+-   openpyxl >= 3.1 (Excel writer engine)
+
+Install on Windows PowerShell:
+
+```powershell
+winget install --id Python.Python.3.12 --source winget --accept-package-agreements --accept-source-agreements
+cd ap2-monitor
+python -m venv .venv
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+./.venv/Scripts/Activate.ps1
+python -m pip install -U pip setuptools wheel
+pip install -r requirements.txt
+```
+
+On macOS/Linux:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip setuptools wheel
+pip install -r requirements.txt
+```
+
+## Output Location and File Structure
+
+Reports are saved in the `Results` directory created under the working directory. Two formats are produced every run:
+
+- `Result<ddmmyyyy>.json`: Full JSON report with the `top_rated` array
+- `Result<ddmmyyyy>.xlsx`: Excel workbook containing the same `top_rated` data
+
+The folder structure after a run:
+
+```
+ap2-monitor/
+  Results/
+    Result23092025.json
+    Result23092025.xlsx
+```
 
 ## Testing
 
