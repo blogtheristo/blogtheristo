@@ -1,6 +1,13 @@
 # AP2 Repository Monitoring Agent 0.13
 
-The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON and Excel reports with enhanced analysis capabilities.
+Permalink: [ap2-monitor @ efa4cc2…](https://github.com/blogtheristo/blogtheristo/tree/efa4cc2d8114e5308dd188ab278e597753220863/ap2-monitor)
+
+The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories related to:
+
+- Agent Payments Protocol (AP2)
+- Agent2Agent Protocol (A2A)
+
+It also assesses their suitability for Lifetime World's DWS IQ Platform Project and generates JSON and Excel reports with enhanced analysis capabilities.
 
 ## Features
 
@@ -24,7 +31,7 @@ Each repository in the `top_rated` list now includes:
 }
 ```
 
-The Excel report (`results<YYYYMMDD>.xlsx`) contains the same data in a tabular format.
+The Excel report (`Result<ddmmyyyy>.xlsx`) contains the same data in a tabular format.
 
 ### New Fields
 
