@@ -1,4 +1,4 @@
-# AP2 Repository Monitoring Agent 0.1
+# AP2 Repository Monitoring Agent 0.14
 
 The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON reports with enhanced analysis capabilities.
 
@@ -7,6 +7,7 @@ The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub 
 - **Repository Rating System**: Tracks and sorts repositories by rating
 - **Automated Explanations**: Generates intelligent analysis of repository usage patterns
 - **DWS IQ Suitability Assessment**: Evaluates repositories for Digital Workspace Intelligence compatibility
+- **GitHub Keyword Search**: Pulls live repository data using keyword searches with an optional token
 - **Extensible Architecture**: Easy to customize criteria and add new analysis features
 
 ## Enhanced JSON Output
@@ -69,8 +70,13 @@ print(json_report)
 ### Running the Example
 
 ```bash
+# optional: reuse an existing virtual environment
 cd ap2-monitor
-python3 monitor.py
+
+# configure GitHub token (recommended to avoid rate limits)
+$env:AP2_GITHUB_TOKEN = "ghp_yourtoken"
+
+python monitor.py
 ```
 
 ### Running Tests
@@ -111,15 +117,15 @@ def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
 
 ## Architecture
 
-- **`monitor.py`**: Main monitoring agent with analysis logic
-- **`test_monitor.py`**: Comprehensive test suite
+- **`monitor.py`**: Main monitoring agent with GitHub integration and report logic
+- **`test_monitor.py`**: Comprehensive test suite (25 tests)
 - **`RepositoryData`**: Data class for repository information
 - **`AP2Monitor`**: Main monitoring class with extensible methods
 
 ## Dependencies
 
-- Python 3.6+
-- Standard library only (no external dependencies)
+- Python 3.10+
+- `pandas`, `openpyxl`, `PyGithub`
 
 ## Testing
 

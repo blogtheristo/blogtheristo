@@ -7,11 +7,78 @@ with repository ratings, analysis, and DWS IQ suitability assessments.
 """
 
 import json
-import re
 import os
-from typing import Dict, List, Any
+from datetime import datetime
+from typing import Any, Dict, List, Optional, Set
 from dataclasses import dataclass
+
 import pandas as pd
+
+try:
+    from github import Github
+    from github.GithubException import GithubException
+except ImportError:  # pragma: no cover
+    Github = None  # type: ignore
+    GithubException = Exception  # type: ignore
+
+
+AI_TOPICS = [
+    'machine-learning',
+    'ai',
+    'artificial-intelligence',
+    'deep-learning',
+    'tensorflow',
+    'pytorch'
+]
+
+CLOUD_TOPICS = [
+    'docker',
+    'kubernetes',
+    'cloud',
+    'aws',
+    'azure',
+    'gcp',
+    'terraform'
+]
+
+WEB_TOPICS = [
+    'web',
+    'frontend',
+    'backend',
+    'api',
+    'rest',
+    'graphql'
+]
+
+LANGUAGE_INSIGHTS = {
+    'Python': 'versatile for data science, web development, and automation',
+    'JavaScript': 'ideal for web applications and full-stack development',
+    'Go': 'excellent for cloud-native and high-performance applications',
+    'Java': 'robust for enterprise applications and microservices',
+    'C#': 'powerful for .NET applications and enterprise solutions',
+    'TypeScript': 'type-safe JavaScript for large-scale applications',
+    'Rust': 'systems programming with memory safety and performance',
+    'C++': 'high-performance applications and system programming'
+}
+
+DWS_RELEVANT_TOPICS = [
+    'ai', 'machine-learning', 'data-science', 'cloud', 'kubernetes',
+    'docker', 'microservices', 'api', 'monitoring', 'automation',
+    'devops', 'infrastructure', 'security', 'analytics'
+]
+
+DWS_KEYWORDS = [
+    'intelligent', 'digital', 'workspace', 'industry', 'automation',
+    'analytics', 'monitoring', 'cloud', 'enterprise', 'platform'
+]
+
+DEFAULT_KEYWORDS = sorted({
+    *AI_TOPICS,
+    *CLOUD_TOPICS,
+    *WEB_TOPICS,
+    *DWS_RELEVANT_TOPICS,
+    *DWS_KEYWORDS,
+})
 
 
 @dataclass
@@ -34,13 +101,73 @@ class RepositoryData:
 class AP2Monitor:
     """AP2 Repository Monitoring Agent"""
     
-    def __init__(self):
-        self.repositories = []
+    def __init__(self, github_token: Optional[str] = None):
+        self.repositories: List[RepositoryData] = []
+        self.github_token = github_token or os.getenv("AP2_GITHUB_TOKEN")
+        self.github_client = None
+        if Github:
+            try:
+                if self.github_token:
+                    self.github_client = Github(self.github_token)
+                else:
+                    self.github_client = Github()
+            except GithubException as exc:  # pragma: no cover
+                print(f"Failed to initialize GitHub client: {exc}")
+                self.github_client = None
         
     def add_repository(self, repo_data: RepositoryData):
         """Add a repository to be monitored"""
         self.repositories.append(repo_data)
+
+    def fetch_repositories(self, keywords: Optional[List[str]] = None, per_keyword_limit: int = 10) -> None:
+        """Fetch repositories from GitHub matching the provided keywords."""
+        if not Github:
+            raise RuntimeError("PyGithub is required to use GitHub search. Install dependencies.")
+        if not self.github_client:
+            raise RuntimeError("GitHub client is not initialized. Provide a token or ensure PyGithub is installed.")
+
+        keywords = keywords or DEFAULT_KEYWORDS
+
+        seen_urls = {repo.url for repo in self.repositories}
+
+        for keyword in keywords:
+            try:
+                query = f"{keyword} in:name,description,topics"
+                search_results = self.github_client.search_repositories(query=query, sort="stars", order="desc")
+                for repo in search_results[:per_keyword_limit]:
+                    url = repo.html_url
+                    if url in seen_urls:
+                        continue
+
+                    topics = list(self._extract_topics(repo))
+                    repo_data = RepositoryData(
+                        name=repo.full_name,
+                        rating=min(5, max(1, int(repo.stargazers_count / 500) + 1)),
+                        url=url,
+                        description=repo.description or "",
+                        topics=topics,
+                        language=repo.language or "",
+                        stars=repo.stargazers_count,
+                        forks=repo.forks_count
+                    )
+                    self.add_repository(repo_data)
+                    seen_urls.add(url)
+            except GithubException as exc:  # pragma: no cover
+                print(f"GitHub API error for keyword '{keyword}': {exc}")
     
+    @staticmethod
+    def _extract_topics(repo: Any) -> Set[str]:
+        topics: Set[str] = set()
+        raw_topics = getattr(repo, 'topics', None)
+        if isinstance(raw_topics, list):
+            topics.update(str(topic).lower() for topic in raw_topics)
+        elif raw_topics:
+            try:
+                topics.update(str(topic.name).lower() for topic in raw_topics())
+            except TypeError:
+                topics.update(str(topic).lower() for topic in raw_topics)
+        return topics
+
     def _generate_explanation(self, repo: RepositoryData) -> str:
         """
         Generate automated analysis of repository usage
@@ -52,33 +179,19 @@ class AP2Monitor:
             Short explanation string
         """
         explanations = []
-        
-        # Analyze by topics first (highest priority)
-        cloud_topics = ['docker', 'kubernetes', 'cloud', 'aws', 'azure', 'gcp', 'terraform']
-        ai_topics = ['machine-learning', 'ai', 'artificial-intelligence', 'deep-learning', 'tensorflow', 'pytorch']
-        web_topics = ['web', 'frontend', 'backend', 'api', 'rest', 'graphql']
-        
-        if any(topic in repo.topics for topic in ai_topics):
+        topics_lower = self._extract_topics(repo)
+
+        if topics_lower.intersection({topic.lower() for topic in AI_TOPICS}):
             explanations.append("AI/ML capabilities for intelligent applications")
-        if any(topic in repo.topics for topic in cloud_topics):
+        if topics_lower.intersection({topic.lower() for topic in CLOUD_TOPICS}):
             explanations.append("cloud-native technologies suitable for modern infrastructure")
-        if any(topic in repo.topics for topic in web_topics):
+        if topics_lower.intersection({topic.lower() for topic in WEB_TOPICS}):
             explanations.append("web development focused with modern frameworks")
         
         # Analyze by programming language
         if repo.language and len(explanations) < 2:
-            lang_insights = {
-                'Python': 'versatile for data science, web development, and automation',
-                'JavaScript': 'ideal for web applications and full-stack development', 
-                'Go': 'excellent for cloud-native and high-performance applications',
-                'Java': 'robust for enterprise applications and microservices',
-                'C#': 'powerful for .NET applications and enterprise solutions',
-                'TypeScript': 'type-safe JavaScript for large-scale applications',
-                'Rust': 'systems programming with memory safety and performance',
-                'C++': 'high-performance applications and system programming'
-            }
-            if repo.language in lang_insights:
-                explanations.append(f"{repo.language} - {lang_insights[repo.language]}")
+            if repo.language in LANGUAGE_INSIGHTS:
+                explanations.append(f"{repo.language} - {LANGUAGE_INSIGHTS[repo.language]}")
         
         # Analyze by popularity
         if len(explanations) < 2:
@@ -122,12 +235,12 @@ class AP2Monitor:
             suitable_criteria.append(True)
         
         # Criterion 2: Topic relevance
-        dws_relevant_topics = [
-            'ai', 'machine-learning', 'data-science', 'cloud', 'kubernetes', 
-            'docker', 'microservices', 'api', 'monitoring', 'automation',
-            'devops', 'infrastructure', 'security', 'analytics'
-        ]
-        if any(topic in repo.topics for topic in dws_relevant_topics):
+        topics_lower = (
+            {topic.lower() for topic in repo.topics}
+            if isinstance(repo, RepositoryData)
+            else self._extract_topics(repo)
+        )
+        if topics_lower.intersection({topic.lower() for topic in DWS_RELEVANT_TOPICS}):
             suitable_criteria.append(True)
             
         # Criterion 3: Minimum quality threshold
@@ -136,12 +249,8 @@ class AP2Monitor:
             
         # Criterion 4: Description keywords (if available)
         if repo.description:
-            dws_keywords = [
-                'intelligent', 'digital', 'workspace', 'industry', 'automation',
-                'analytics', 'monitoring', 'cloud', 'enterprise', 'platform'
-            ]
             description_lower = repo.description.lower()
-            if any(keyword in description_lower for keyword in dws_keywords):
+            if any(keyword in description_lower for keyword in DWS_KEYWORDS):
                 suitable_criteria.append(True)
         
         # Repository is suitable if it meets at least 2 criteria
@@ -198,7 +307,9 @@ class AP2Monitor:
         
         # Generate report data
         report_data = self.generate_top_rated_report()
-        
+        now = datetime.now()
+        timestamp_str = now.strftime("%H%d%m%Y")
+
         # Save JSON report
         json_report = {
             "top_rated": report_data
@@ -206,16 +317,29 @@ class AP2Monitor:
         json_file_path = os.path.join(results_dir, "report.json")
         with open(json_file_path, 'w', encoding='utf-8') as f:
             json.dump(json_report, f, indent=2, ensure_ascii=False)
-        
         print(f"JSON report saved to: {json_file_path}")
+
+        dated_json_path = os.path.join(results_dir, f"report_{timestamp_str}.json")
+        with open(dated_json_path, 'w', encoding='utf-8') as f:
+            json.dump(json_report, f, indent=2, ensure_ascii=False)
+        print(f"JSON report saved to: {dated_json_path}")
         
         # Save Excel report
         if report_data:
             # Convert to DataFrame for Excel export
             df = pd.DataFrame(report_data)
+
             excel_file_path = os.path.join(results_dir, "report.xlsx")
             df.to_excel(excel_file_path, index=False, engine='openpyxl')
             print(f"Excel report saved to: {excel_file_path}")
+
+            dated_excel_path = os.path.join(results_dir, f"report_{timestamp_str}.xlsx")
+            df.to_excel(dated_excel_path, index=False, engine='openpyxl')
+            print(f"Excel report saved to: {dated_excel_path}")
+
+            results_excel_path = os.path.join(results_dir, f"results{timestamp_str}.xlsx")
+            df.to_excel(results_excel_path, index=False, engine='openpyxl')
+            print(f"Excel report saved to: {results_excel_path}")
         else:
             print("No data to save to Excel file")
 
