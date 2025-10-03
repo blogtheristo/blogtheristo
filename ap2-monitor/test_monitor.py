@@ -448,8 +448,7 @@ class TestFileSaving(unittest.TestCase):
         mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        date_str = datetime.now().strftime("%d%m%Y")
-        json_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.json")
+        json_file = os.path.join(self.test_dir, "Results", "report.json")
         self.assertTrue(os.path.exists(json_file))
         
         # Verify JSON content
@@ -469,8 +468,7 @@ class TestFileSaving(unittest.TestCase):
         mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        date_str = datetime.now().strftime("%d%m%Y")
-        excel_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.xlsx")
+        excel_file = os.path.join(self.test_dir, "Results", "report.xlsx")
         self.assertTrue(os.path.exists(excel_file))
         
         # Verify Excel content using pandas
