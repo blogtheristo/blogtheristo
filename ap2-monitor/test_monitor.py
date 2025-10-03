@@ -11,6 +11,7 @@ import json
 from unittest.mock import Mock, patch
 import sys
 import os
+from datetime import datetime
 import pandas as pd
 
 # Add the ap2-monitor directory to the Python path
@@ -447,7 +448,8 @@ class TestFileSaving(unittest.TestCase):
         mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        json_file = os.path.join(self.test_dir, "Results", "report.json")
+        date_str = datetime.now().strftime("%d%m%Y")
+        json_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.json")
         self.assertTrue(os.path.exists(json_file))
         
         # Verify JSON content
@@ -467,7 +469,8 @@ class TestFileSaving(unittest.TestCase):
         mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        excel_file = os.path.join(self.test_dir, "Results", "report.xlsx")
+        date_str = datetime.now().strftime("%d%m%Y")
+        excel_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.xlsx")
         self.assertTrue(os.path.exists(excel_file))
         
         # Verify Excel content using pandas

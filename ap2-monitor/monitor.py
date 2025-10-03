@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-AP2 Repository Monitoring Agent
-
-This module monitors GitHub repositories and generates JSON reports
-with repository ratings, analysis, and DWS IQ suitability assessments.
-"""
-
 import json
 import os
 from datetime import datetime
@@ -83,20 +75,14 @@ DEFAULT_KEYWORDS = sorted({
 
 @dataclass
 class RepositoryData:
-    """Data class for repository information"""
     name: str
     rating: int
     url: str
     description: str = ""
-    topics: List[str] = None
+    topics: list[str] = field(default_factory=list)
     language: str = ""
     stars: int = 0
     forks: int = 0
-    
-    def __post_init__(self):
-        if self.topics is None:
-            self.topics = []
-
 
 class AP2Monitor:
     """AP2 Repository Monitoring Agent"""
@@ -273,7 +259,7 @@ class AP2Monitor:
                 "rating": repo.rating,
                 "url": repo.url,
                 "explanation": self._generate_explanation(repo),
-                "dws_iq_suitable": self._assess_dws_iq_suitability(repo)
+                "dws_iq_suitable": self._assess_dws_iq_suitability(repo),
             }
             report.append(repo_entry)
             
@@ -311,8 +297,21 @@ class AP2Monitor:
         timestamp_str = now.strftime("%H%d%m%Y")
 
         # Save JSON report
-        json_report = {
-            "top_rated": report_data
+        with open(os.path.join(results_dir, json_filename), "w", encoding="utf-8") as f:
+            json.dump(report, f, indent=2)
+
+        # Save Excel report
+        df = pd.DataFrame(report["top_rated"])
+        df.to_excel(os.path.join(results_dir, excel_filename), index=False)
+
+    def _generate_explanation(self, repo: RepositoryData) -> str:
+        lang_map = {
+            "Python": "versatile for data science, web development, and automation.",
+            "Go": "excellent for high-performance, concurrent systems.",
+            "JavaScript": "the language of the web, essential for front-end development.",
+            "TypeScript": "a typed superset of JavaScript that enhances code quality.",
+            "C#": "a powerful language for building Windows apps and enterprise systems.",
+            "Java": "a robust, platform-independent language for large-scale applications.",
         }
         json_file_path = os.path.join(results_dir, "report.json")
         with open(json_file_path, 'w', encoding='utf-8') as f:
@@ -343,51 +342,53 @@ class AP2Monitor:
         else:
             print("No data to save to Excel file")
 
+        # Topic-based cues
+        ai_topics = {"ai", "machine-learning", "deep-learning"}
+        cloud_topics = {"cloud", "kubernetes", "microservices"}
+        topics_lower = {t.lower() for t in repo.topics}
+        if topics_lower & ai_topics:
+            explanation += " with focus on AI/ML"
+        if topics_lower & cloud_topics:
+            explanation += " suitable for cloud-native systems"
 
-def main():
-    """Example usage of the AP2 Monitor"""
-    monitor = AP2Monitor()
-    
-    # Example repositories for demonstration
-    example_repos = [
-        RepositoryData(
-            name="awesome-python",
-            rating=5,
-            url="https://github.com/vinta/awesome-python",
-            description="A curated list of awesome Python frameworks, libraries, software and resources",
-            topics=['python', 'awesome-list', 'resources'],
-            language="Python",
-            stars=2500,
-            forks=400
-        ),
-        RepositoryData(
-            name="kubernetes",
-            rating=5,
-            url="https://github.com/kubernetes/kubernetes",
-            description="Production-Grade Container Scheduling and Management",
-            topics=['kubernetes', 'containers', 'orchestration', 'cloud'],
-            language="Go",
-            stars=15000,
-            forks=8000
-        ),
-        RepositoryData(
-            name="small-project",
-            rating=3,
-            url="https://github.com/example/small-project",
-            description="A small utility project",
-            topics=['utility'],
-            language="JavaScript",
-            stars=5,
-            forks=1
-        )
-    ]
-    
-    for repo in example_repos:
-        monitor.add_repository(repo)
-    
-    # Save the report to files instead of printing
-    monitor.save_reports()
+        # Popularity cues
+        if repo.stars > 1000:
+            explanation += " highly popular with strong community adoption"
+        elif repo.stars > 100:
+            explanation += " gaining popularity with a growing community"
 
+        return f"{repo.language} - {explanation}"
 
+    def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
+        suitable_languages = ["Python", "Go", "JavaScript", "TypeScript", "C#", "Java"]
+        relevant_topics = ["ai", "cloud", "microservices", "automation", "analytics"]
+
+        if repo.language not in suitable_languages:
+            return False
+
+        if repo.stars < 10 or repo.rating < 3:
+            return False
+
+        # Either relevant topics OR description keywords should qualify
+        if any(topic in repo.topics for topic in relevant_topics):
+            return True
+
+        description_keywords = ["intelligent", "digital", "workspace", "industry"]
+        if any(keyword in repo.description.lower() for keyword in description_keywords):
+            return True
+
+        return False
+
+# Example Usage
 if __name__ == "__main__":
-    main()
+    monitor = AP2Monitor()
+
+    # Add sample repositories
+    monitor.add_repository(RepositoryData(name="wing", rating=5, url="https://github.com/winglang/wing", description="Compiler and SDK for a cloud-oriented programming language", topics=["cloud", "compiler", "typescript"], language="TypeScript", stars=1500, forks=100))
+    monitor.add_repository(RepositoryData(name="fastapi", rating=5, url="https://github.com/tiangolo/fastapi", description="A modern, fast (high-performance) web framework for building APIs with Python 3.7+", topics=["python", "api", "web"], language="Python", stars=60000, forks=5000))
+    monitor.add_repository(RepositoryData(name="temporal", rating=4, url="https://github.com/temporalio/temporal", description="A durable execution system for microservices", topics=["microservices", "go", "automation"], language="Go", stars=8000, forks=800))
+    monitor.add_repository(RepositoryData(name="my-internal-project", rating=3, url="https://github.com/my-org/my-internal-project", description="An intelligent digital workspace solution", topics=["analytics", "csharp"], language="C#", stars=50, forks=10))
+
+    # Save reports to Results/ directory
+    monitor.save_reports()
+    print("Reports generated successfully in the 'Results' directory.")
