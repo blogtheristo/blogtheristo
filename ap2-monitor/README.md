@@ -1,15 +1,23 @@
-# AP2 Repository Monitoring Agent 0.1
+# AP2 Repository Monitoring Agent 0.14
 
-The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories and generate comprehensive JSON reports with enhanced analysis capabilities.
+Permalink: [ap2-monitor @ efa4cc2…](https://github.com/blogtheristo/blogtheristo/tree/efa4cc2d8114e5308dd188ab278e597753220863/ap2-monitor)
+
+The AP2 Repository Monitoring Agent is a Python tool designed to monitor GitHub repositories related to:
+
+- Agent Payments Protocol (AP2)
+- Agent2Agent Protocol (A2A)
+
+It also assesses their suitability for Lifetime World's DWS IQ Platform Project and generates JSON and Excel reports with enhanced analysis capabilities.
 
 ## Features
 
 - **Repository Rating System**: Tracks and sorts repositories by rating
 - **Automated Explanations**: Generates intelligent analysis of repository usage patterns
 - **DWS IQ Suitability Assessment**: Evaluates repositories for Digital Workspace Intelligence compatibility
+- **GitHub Keyword Search**: Pulls live repository data using keyword searches with an optional token
 - **Extensible Architecture**: Easy to customize criteria and add new analysis features
 
-## Enhanced JSON Output
+## Enhanced JSON and Excel Output
 
 Each repository in the `top_rated` list now includes:
 
@@ -23,19 +31,21 @@ Each repository in the `top_rated` list now includes:
 }
 ```
 
+The Excel report (`Result<ddmmyyyy>.xlsx`) contains the same data in a tabular format.
+
 ### New Fields
 
-1. **`explanation`**: Automated analysis based on:
-   - Programming language capabilities
-   - Repository popularity (stars/forks)
-   - Topic categorization (AI/ML, cloud-native, web development)
-   - Community engagement metrics
+1.  **`explanation`**: Automated analysis based on:
+    -   Programming language capabilities
+    -   Repository popularity (stars/forks)
+    -   Topic categorization (AI/ML, cloud-native, web development)
+    -   Community engagement metrics
 
-2. **`dws_iq_suitable`**: Boolean assessment using customizable criteria:
-   - Language suitability for DWS environments
-   - Relevant topic tags
-   - Quality thresholds (stars, rating)
-   - Description keyword matching
+2.  **`dws_iq_suitable`**: Boolean assessment using customizable criteria:
+    -   Language suitability for DWS environments
+    -   Relevant topic tags
+    -   Quality thresholds (stars, rating)
+    -   Description keyword matching
 
 ## Usage
 
@@ -61,17 +71,31 @@ repo = RepositoryData(
 
 monitor.add_repository(repo)
 
-# Generate JSON report
-json_report = monitor.generate_json_report()
-print(json_report)
+# Generate and save JSON and Excel reports
+monitor.save_reports()
+print("Reports generated successfully in the 'Results' directory.")
 ```
 
 ### Running the Example
 
 ```bash
+# optional: reuse an existing virtual environment
 cd ap2-monitor
-python3 monitor.py
+
+# configure GitHub token (recommended to avoid rate limits)
+$env:AP2_GITHUB_TOKEN = "ghp_yourtoken"
+
+python monitor.py
 ```
+This will create a `Results` directory with two files:
+
+- `Result<ddmmyyyy>.json` (JSON report)
+- `Result<ddmmyyyy>.xlsx` (Excel report)
+
+Example for 23 September 2025:
+
+- `Result23092025.json`
+- `Result23092025.xlsx`
 
 ### Running Tests
 
@@ -84,10 +108,10 @@ python3 test_monitor.py
 
 The DWS IQ suitability assessment can be easily customized by modifying the `_assess_dws_iq_suitability` method in `monitor.py`. Current criteria include:
 
-- **Language Suitability**: Python, Go, JavaScript, TypeScript, C#, Java
-- **Topic Relevance**: AI, cloud, microservices, automation, analytics
-- **Quality Threshold**: Minimum 10 stars and rating ≥ 3
-- **Description Keywords**: intelligent, digital, workspace, industry, etc.
+-   **Language Suitability**: Python, Go, JavaScript, TypeScript, C#, Java
+-   **Topic Relevance**: AI, cloud, microservices, automation, analytics
+-   **Quality Threshold**: Minimum 10 stars and rating ≥ 3
+-   **Description Keywords**: intelligent, digital, workspace, industry, etc.
 
 ### Example Customization
 
@@ -111,23 +135,23 @@ def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
 
 ## Architecture
 
-- **`monitor.py`**: Main monitoring agent with analysis logic
-- **`test_monitor.py`**: Comprehensive test suite
+- **`monitor.py`**: Main monitoring agent with GitHub integration and report logic
+- **`test_monitor.py`**: Comprehensive test suite (25 tests)
 - **`RepositoryData`**: Data class for repository information
 - **`AP2Monitor`**: Main monitoring class with extensible methods
 
 ## Dependencies
 
-- Python 3.6+
-- Standard library only (no external dependencies)
+- Python 3.10+
+- `pandas`, `openpyxl`, `PyGithub`
 
 ## Testing
 
 The test suite includes:
-- Unit tests for all core functionality
-- Integration tests for complete workflows
-- Test cases for both new fields
-- Validation of JSON structure and content
+-   Unit tests for all core functionality
+-   Integration tests for complete workflows
+-   Test cases for both new fields
+-   Validation of JSON structure and content
 
 Run tests with:
 ```bash

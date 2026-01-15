@@ -7,7 +7,7 @@ enhanced JSON reports with intelligent analysis and DWS IQ suitability assessmen
 
 from .monitor import AP2Monitor, RepositoryData
 
-__version__ = "1.0.0"
+__version__ = "0.13"
 __author__ = "AP2 Team"
 __email__ = "ap2@example.com"
 
