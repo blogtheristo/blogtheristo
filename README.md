@@ -2,12 +2,18 @@
 
 Thank you for visiting my humble profile blogtheristo 6.0 !
 
-My mission as an AI Engineer with the Lifetime World initiative is to fight
-climate change, erosion, and droughts.
+My mission as an AI Engineer with the Lifetime World initiative is to bring solutions to the 
+climate crisis.  
+My main project is dws iq climate intelligence ecosystem + onelifetime.world. 
+See: https://dws10.com 
 
-Lifetime Oy Ltd. is AI innovation Go-To Powerhouse. We deliver Lifetime Firehorse Product Line, Consulting, tailored Solutions and Strategic Cloud & Sustainability Services.
+Lifetime Oy is Finnish Intelligence Solutions Company. We are an AI innovation Go-To Powerhouse. 
+We deliver DWS IQ Intelligence Platform and Lifetime Firehorse Product Line 
 
-## Vastuullista tekoälykonsultointia ja koulutuksia
+Lifetime Consulting transforms businesses through Strategic Cloud & Sustainability Consulting 
+Lifetime Studios builds tailored Solutions for the Climate Crisis.
+
+## Vastuullista kestävän kehityksen tekoälykonsultointia ja koulutuksia
 
 Lifetime on tekoälyinnovaatioiden johtava asiantuntija ja edelläkävijä. Kattavaan tarjontaamme kuuluvat Lifetime Firehorse -tuoteperhe, räätälöidyt ratkaisut, tekoälykoulutukset, asiantuntijakonsultointi sekä strategiset pilvi- ja vastuullisuuspalvelut.
 
