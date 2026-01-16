@@ -1,4 +1,4 @@
-# AP2 Repository Monitoring Agent 0.13
+# AP2 Repository Monitoring Agent 0.14
 
 Permalink: [ap2-monitor @ efa4cc2…](https://github.com/blogtheristo/blogtheristo/tree/efa4cc2d8114e5308dd188ab278e597753220863/ap2-monitor)
 
@@ -14,7 +14,7 @@ It also assesses their suitability for Lifetime World's DWS IQ Platform Project 
 - **Repository Rating System**: Tracks and sorts repositories by rating
 - **Automated Explanations**: Generates intelligent analysis of repository usage patterns
 - **DWS IQ Suitability Assessment**: Evaluates repositories for Digital Workspace Intelligence compatibility
-- **JSON and Excel Reporting**: Generates reports in both JSON and Excel formats.
+- **GitHub Keyword Search**: Pulls live repository data using keyword searches with an optional token
 - **Extensible Architecture**: Easy to customize criteria and add new analysis features
 
 ## Enhanced JSON and Excel Output
@@ -79,8 +79,13 @@ print("Reports generated successfully in the 'Results' directory.")
 ### Running the Example
 
 ```bash
+# optional: reuse an existing virtual environment
 cd ap2-monitor
-python3 monitor.py
+
+# configure GitHub token (recommended to avoid rate limits)
+$env:AP2_GITHUB_TOKEN = "ghp_yourtoken"
+
+python monitor.py
 ```
 This will create a `Results` directory with two files:
 
@@ -130,53 +135,15 @@ def _assess_dws_iq_suitability(self, repo: RepositoryData) -> bool:
 
 ## Architecture
 
--   **`monitor.py`**: Main monitoring agent with analysis logic
--   **`test_monitor.py`**: Comprehensive test suite
--   **`RepositoryData`**: Data class for repository information
--   **`AP2Monitor`**: Main monitoring class with extensible methods
+- **`monitor.py`**: Main monitoring agent with GitHub integration and report logic
+- **`test_monitor.py`**: Comprehensive test suite (25 tests)
+- **`RepositoryData`**: Data class for repository information
+- **`AP2Monitor`**: Main monitoring class with extensible methods
 
 ## Dependencies
 
--   Python 3.10+ (tested with 3.12/3.13)
--   pandas >= 2.0 (Excel export)
--   openpyxl >= 3.1 (Excel writer engine)
-
-Install on Windows PowerShell:
-
-```powershell
-winget install --id Python.Python.3.12 --source winget --accept-package-agreements --accept-source-agreements
-cd ap2-monitor
-python -m venv .venv
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-./.venv/Scripts/Activate.ps1
-python -m pip install -U pip setuptools wheel
-pip install -r requirements.txt
-```
-
-On macOS/Linux:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -U pip setuptools wheel
-pip install -r requirements.txt
-```
-
-## Output Location and File Structure
-
-Reports are saved in the `Results` directory created under the working directory. Two formats are produced every run:
-
-- `Result<ddmmyyyy>.json`: Full JSON report with the `top_rated` array
-- `Result<ddmmyyyy>.xlsx`: Excel workbook containing the same `top_rated` data
-
-The folder structure after a run:
-
-```
-ap2-monitor/
-  Results/
-    Result23092025.json
-    Result23092025.xlsx
-```
+- Python 3.10+
+- `pandas`, `openpyxl`, `PyGithub`
 
 ## Testing
 

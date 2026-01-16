@@ -8,7 +8,7 @@ including tests for the new explanation and dws_iq_suitable fields.
 
 import unittest
 import json
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 import sys
 import os
 from datetime import datetime
@@ -274,6 +274,76 @@ class TestAP2Monitor(unittest.TestCase):
         is_suitable = self.monitor._assess_dws_iq_suitability(borderline_repo)
         self.assertTrue(is_suitable)
 
+    @patch('monitor.GithubException', new=Exception)
+    @patch('monitor.Github')
+    def test_fetch_repositories_with_keywords(self, mock_github):
+        """Test GitHub keyword search adds repositories"""
+        mock_client = Mock()
+        mock_repo = Mock()
+        mock_repo.html_url = "https://github.com/example/cloud-repo"
+        mock_repo.full_name = "example/cloud-repo"
+        mock_repo.description = "Cloud automation tools"
+        mock_repo.topics = ['cloud', 'automation']
+        mock_repo.language = 'Python'
+        mock_repo.stargazers_count = 1200
+        mock_repo.forks_count = 320
+
+        mock_client.search_repositories.return_value = [mock_repo]
+        mock_github.return_value = mock_client
+
+        monitor = AP2Monitor(github_token="fake-token")
+        monitor.fetch_repositories(['cloud'], per_keyword_limit=1)
+
+        self.assertEqual(len(monitor.repositories), 1)
+        fetched_repo = monitor.repositories[0]
+        self.assertEqual(fetched_repo.name, "example/cloud-repo")
+        self.assertEqual(fetched_repo.url, "https://github.com/example/cloud-repo")
+        self.assertEqual(fetched_repo.rating, 3)
+        self.assertEqual(fetched_repo.language, 'Python')
+        self.assertEqual(fetched_repo.stars, 1200)
+        self.assertEqual(fetched_repo.forks, 320)
+        self.assertTrue(set(fetched_repo.topics).issuperset({'cloud', 'automation'}))
+        mock_client.search_repositories.assert_called_with(
+            query='cloud in:name,description,topics',
+            sort='stars',
+            order='desc'
+        )
+
+    @patch('monitor.DEFAULT_KEYWORDS', ['ai'])
+    @patch('monitor.GithubException', new=Exception)
+    @patch('monitor.Github')
+    def test_fetch_repositories_uses_default_keywords(self, mock_github):
+        """Test fetch_repositories uses default keyword list when none provided"""
+        mock_client = Mock()
+        mock_repo = Mock()
+        mock_repo.html_url = "https://github.com/example/ai-repo"
+        mock_repo.full_name = "example/ai-repo"
+        mock_repo.description = "AI toolkit"
+        mock_repo.topics = ['ai']
+        mock_repo.language = 'Python'
+        mock_repo.stargazers_count = 50
+        mock_repo.forks_count = 5
+
+        mock_client.search_repositories.return_value = [mock_repo]
+        mock_github.return_value = mock_client
+
+        monitor = AP2Monitor(github_token="fake-token")
+        monitor.fetch_repositories(per_keyword_limit=1)
+
+        self.assertEqual(len(monitor.repositories), 1)
+        mock_client.search_repositories.assert_called_with(
+            query='ai in:name,description,topics',
+            sort='stars',
+            order='desc'
+        )
+
+    def test_fetch_repositories_without_client_raises(self):
+        """Test fetch_repositories raises when GitHub client unavailable"""
+        monitor = AP2Monitor()
+        monitor.github_client = None
+        with self.assertRaises(RuntimeError):
+            monitor.fetch_repositories(['cloud'])
+
 
 class TestIntegration(unittest.TestCase):
     """Integration tests for the complete workflow"""
@@ -362,20 +432,23 @@ class TestFileSaving(unittest.TestCase):
             import shutil
             shutil.rmtree(self.test_dir)
     
-    def test_save_reports_creates_directory(self):
+    @patch('monitor.datetime')
+    def test_save_reports_creates_directory(self, mock_datetime):
         """Test that save_reports creates Results directory"""
+        mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
         results_dir = os.path.join(self.test_dir, "Results")
         self.assertTrue(os.path.exists(results_dir))
         self.assertTrue(os.path.isdir(results_dir))
     
-    def test_save_reports_creates_json_file(self):
+    @patch('monitor.datetime')
+    def test_save_reports_creates_json_file(self, mock_datetime):
         """Test that save_reports creates JSON file with correct content"""
+        mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        date_str = datetime.now().strftime("%d%m%Y")
-        json_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.json")
+        json_file = os.path.join(self.test_dir, "Results", "report.json")
         self.assertTrue(os.path.exists(json_file))
         
         # Verify JSON content
@@ -385,13 +458,17 @@ class TestFileSaving(unittest.TestCase):
         self.assertIn("top_rated", data)
         self.assertEqual(len(data["top_rated"]), 1)
         self.assertEqual(data["top_rated"][0]["name"], "test-repo")
+
+        dated_json = os.path.join(self.test_dir, "Results", "report_0815012025.json")
+        self.assertTrue(os.path.exists(dated_json))
     
-    def test_save_reports_creates_excel_file(self):
+    @patch('monitor.datetime')
+    def test_save_reports_creates_excel_file(self, mock_datetime):
         """Test that save_reports creates Excel file with correct content"""
+        mock_datetime.now.return_value.strftime.return_value = '0815012025'
         self.monitor.save_reports(self.test_dir)
         
-        date_str = datetime.now().strftime("%d%m%Y")
-        excel_file = os.path.join(self.test_dir, "Results", f"Result{date_str}.xlsx")
+        excel_file = os.path.join(self.test_dir, "Results", "report.xlsx")
         self.assertTrue(os.path.exists(excel_file))
         
         # Verify Excel content using pandas
@@ -399,6 +476,12 @@ class TestFileSaving(unittest.TestCase):
         self.assertEqual(len(df), 1)
         self.assertEqual(df.iloc[0]['name'], "test-repo")
         self.assertEqual(df.iloc[0]['rating'], 4)
+
+        dated_excel = os.path.join(self.test_dir, "Results", "report_0815012025.xlsx")
+        self.assertTrue(os.path.exists(dated_excel))
+
+        results_excel = os.path.join(self.test_dir, "Results", "results0815012025.xlsx")
+        self.assertTrue(os.path.exists(results_excel))
 
 
 if __name__ == "__main__":
