@@ -1,0 +1,25 @@
+# DWS6 - Digital Workspace 6.0 Requirements
+
+# Core dependencies
+python-dateutil>=2.8.2
+pyyaml>=6.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: Cloud provider SDKs (install as needed)
+# boto3>=1.28.0  # AWS
+# azure-core>=1.28.0  # Azure
+# google-cloud-core>=2.3.0  # GCP
+
+# Optional: AI/ML support
+# openai>=1.0.0
+# anthropic>=0.5.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0
